@@ -1,5 +1,7 @@
 # Final Project:
 
+Since it is too big to upload to Gradescope. And we don't know this situation before. We create this repository for now. Sorry for this late submission.
+
 Members:
 Ziwei Quan
 Shuhao Yu
@@ -16,9 +18,7 @@ scikit-learn (optional for flash writes)
 lru-dict (optional for flash writes)
 
 ### Results for Report:
-The folder named project_results.、
-
-It is too big to upload to gradescope. Please check this link for github:
+The folder named project_results.
 
 git@github.com:Roohsy/Final_Project.git
 
