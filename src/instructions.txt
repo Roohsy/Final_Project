@@ -1,0 +1,10000 @@
+put 138 9914
+get 99
+put 138 4313
+get 5
+put 61 3760
+get 8
+get 88
+put 26 2430
+put 44 4252
+put 9 6971
+put 126 2943
+put 33 6878
+get 38
+put 148 7644
+put 64 1552
+get 109
+get 127
+put 83 3962
+get 131
+get 77
+get 19
+get 82
+get 6
+get 39
+get 134
+get 70
+get 114
+get 23
+put 52 2399
+put 111 8160
+put 37 2212
+put 59 9595
+put 134 9179
+put 71 755
+put 76 3683
+get 52
+get 117
+put 128 906
+get 117
+get 40
+get 27
+put 26 6516
+get 9
+put 91 1024
+get 124
+put 49 1478
+put 14 1244
+get 120
+get 8
+put 37 9721
+get 18
+get 91
+put 70 9980
+get 65
+put 79 3824
+get 139
+get 55
+get 37
+put 119 1099
+put 5 8527
+get 56
+get 85
+put 96 2489
+get 4
+get 37
+get 83
+get 53
+put 150 8335
+put 139 9637
+get 29
+get 116
+get 99
+get 116
+get 59
+get 143
+put 42 1225
+get 17
+get 127
+put 99 6857
+get 70
+get 82
+put 67 1357
+put 102 5962
+get 98
+get 67
+get 81
+put 149 1543
+get 32
+get 88
+put 113 3431
+get 33
+get 94
+get 74
+get 61
+get 40
+put 144 507
+get 139
+get 4
+put 56 3481
+put 82 5599
+get 30
+get 8
+get 63
+get 19
+put 56 9312
+put 70 4562
+put 81 9557
+get 75
+get 21
+get 129
+get 22
+put 140 6627
+get 143
+put 39 356
+get 35
+put 62 8778
+get 44
+get 95
+get 119
+get 83
+get 29
+get 32
+put 106 8204
+get 65
+put 88 3136
+get 72
+get 41
+put 39 5333
+put 102 4013
+get 66
+get 141
+get 121
+put 38 6302
+put 70 3622
+get 97
+get 111
+put 29 6225
+get 14
+get 140
+put 97 5504
+get 102
+put 103 4741
+put 100 7822
+get 111
+get 65
+get 98
+put 77 6011
+get 127
+get 36
+put 133 2636
+get 97
+get 13
+get 114
+get 42
+put 113 5979
+get 96
+get 22
+get 61
+put 132 1929
+get 136
+get 78
+put 59 2640
+get 140
+get 24
+get 19
+get 52
+get 119
+get 14
+get 98
+get 134
+get 106
+get 118
+put 96 3049
+get 6
+get 139
+get 123
+put 123 8021
+get 65
+get 109
+get 87
+get 81
+get 17
+get 138
+put 76 8733
+put 124 8825
+put 127 3993
+put 65 856
+get 146
+put 130 5677
+put 19 1000
+get 55
+put 104 4955
+get 93
+put 104 87
+get 149
+put 47 7739
+get 123
+put 124 1763
+put 34 5912
+put 32 9972
+get 12
+get 26
+put 59 584
+get 44
+put 86 4761
+put 22 6757
+get 116
+get 132
+get 125
+get 82
+get 114
+get 130
+get 130
+get 93
+get 1
+get 38
+get 14
+get 82
+get 7
+put 73 4252
+put 1 879
+get 133
+get 96
+get 25
+get 27
+put 40 6652
+get 41
+get 34
+get 81
+put 75 7779
+get 78
+put 6 8896
+put 37 6293
+get 110
+put 50 1962
+put 116 5709
+get 145
+get 26
+put 3 5061
+get 41
+get 139
+get 135
+put 119 9224
+get 18
+get 111
+get 127
+get 94
+put 131 1446
+put 135 7407
+get 72
+get 15
+get 122
+get 129
+get 28
+get 98
+get 117
+get 21
+put 89 3906
+put 17 8352
+get 68
+put 141 4260
+put 63 8899
+put 47 3784
+put 21 196
+get 17
+get 9
+put 149 3508
+get 13
+put 77 2709
+put 67 8071
+put 48 4627
+get 104
+put 34 6942
+put 125 60
+put 47 2950
+get 123
+get 80
+get 136
+put 116 6825
+get 95
+get 33
+put 142 8009
+put 48 2550
+put 134 3928
+get 54
+get 27
+put 77 6161
+put 53 2778
+put 123 7740
+put 118 8434
+get 49
+put 7 54
+get 93
+get 35
+get 123
+get 2
+get 139
+get 96
+put 130 6099
+get 80
+get 68
+get 114
+get 11
+get 82
+get 56
+get 134
+put 143 7309
+get 129
+get 14
+get 104
+put 96 5999
+get 37
+put 27 7688
+get 71
+put 111 544
+get 115
+put 143 1573
+put 71 1820
+get 28
+put 105 7223
+get 103
+put 137 3442
+get 143
+put 72 106
+get 86
+get 87
+put 117 7259
+get 127
+get 1
+put 59 4854
+get 74
+put 86 2153
+put 102 7286
+put 129 7760
+put 140 9292
+put 47 9699
+get 73
+get 108
+get 51
+put 133 8860
+put 93 7621
+put 19 8250
+put 71 5200
+put 115 1540
+put 119 1374
+get 26
+put 25 136
+put 134 913
+put 93 8786
+get 104
+get 113
+get 111
+put 98 3975
+get 0
+get 145
+get 43
+put 110 2209
+get 131
+get 50
+get 4
+put 150 7477
+get 56
+get 4
+put 16 100
+put 121 5884
+put 117 1136
+get 70
+get 26
+get 39
+put 79 9867
+put 24 8111
+get 125
+get 86
+put 108 649
+put 98 9884
+get 59
+put 44 5186
+get 69
+get 141
+put 60 287
+get 104
+get 33
+get 57
+get 13
+get 92
+put 101 4606
+put 14 757
+get 66
+put 68 8995
+get 70
+put 5 1779
+get 139
+put 124 2242
+get 7
+get 2
+put 119 8622
+put 135 8582
+get 62
+put 104 6730
+get 52
+get 63
+get 48
+get 29
+get 9
+get 82
+get 124
+put 123 664
+get 19
+get 13
+get 75
+put 83 3757
+put 18 3150
+put 82 1718
+put 141 1209
+put 107 5863
+get 144
+put 72 4731
+get 118
+get 101
+put 146 1186
+put 82 315
+get 78
+get 123
+get 117
+put 48 5558
+get 98
+put 36 6284
+get 63
+put 132 262
+put 149 4996
+get 66
+get 42
+get 85
+get 91
+put 102 5319
+get 98
+put 2 8207
+put 114 564
+get 80
+put 56 6429
+get 10
+put 49 2476
+put 91 5015
+put 123 5893
+put 52 3882
+get 94
+get 40
+put 8 4706
+put 71 1739
+get 92
+put 45 6071
+get 144
+get 14
+get 26
+put 53 5761
+put 137 3406
+get 58
+get 143
+put 54 4897
+get 96
+get 148
+put 1 5171
+get 79
+put 123 7578
+get 103
+put 106 6076
+get 50
+get 147
+get 149
+get 4
+get 123
+get 57
+put 120 5783
+get 40
+get 45
+get 119
+get 37
+put 15 8677
+put 17 7897
+get 100
+get 129
+put 44 9076
+put 39 7859
+put 66 7077
+put 120 3024
+put 112 2880
+put 125 6975
+get 113
+get 73
+get 90
+get 128
+get 115
+get 80
+put 19 8980
+get 34
+get 100
+put 0 2399
+put 117 2917
+put 89 7040
+get 150
+get 77
+put 135 8607
+get 142
+put 90 2346
+put 63 4827
+get 92
+get 1
+get 12
+get 75
+get 2
+put 15 3200
+get 43
+put 90 2082
+get 105
+get 93
+get 124
+put 96 8931
+put 61 6145
+get 79
+get 3
+put 24 1177
+get 126
+get 17
+put 103 2557
+get 86
+get 110
+get 71
+get 55
+put 119 9679
+put 140 8144
+get 52
+get 115
+put 24 2893
+get 135
+put 38 2148
+get 113
+get 128
+get 10
+get 11
+get 77
+get 112
+get 20
+get 65
+put 26 415
+put 3 3099
+get 114
+get 4
+get 62
+put 105 3527
+get 24
+get 114
+get 148
+get 39
+get 86
+put 111 770
+get 2
+get 23
+put 11 2415
+get 10
+put 10 888
+get 136
+put 136 931
+get 28
+get 94
+put 103 3614
+put 59 1853
+get 50
+put 110 8989
+put 126 3955
+get 79
+get 12
+put 107 7505
+get 108
+get 43
+get 87
+put 15 7670
+get 114
+get 112
+get 11
+put 43 7267
+get 150
+get 55
+get 4
+get 88
+get 140
+get 106
+get 46
+get 133
+get 128
+put 1 9635
+get 11
+get 66
+get 41
+put 91 1531
+get 35
+get 34
+get 41
+get 140
+get 135
+get 4
+get 57
+get 83
+get 114
+get 32
+get 93
+put 145 5402
+put 150 5771
+get 8
+put 145 7508
+put 4 4650
+get 85
+get 46
+get 98
+get 24
+put 73 8594
+put 59 7699
+put 87 1166
+get 11
+put 38 9757
+get 134
+put 143 7952
+put 79 2519
+put 62 5153
+get 15
+get 110
+put 116 4021
+get 68
+get 60
+get 52
+get 39
+get 22
+get 47
+get 30
+get 134
+put 30 2802
+get 2
+put 44 360
+put 129 3496
+get 42
+put 140 191
+get 107
+put 114 8959
+get 31
+get 150
+get 27
+put 130 5344
+put 60 5393
+get 146
+put 134 2600
+get 74
+get 149
+get 103
+get 79
+get 41
+get 89
+get 117
+get 13
+get 147
+put 104 9925
+get 67
+get 126
+get 103
+put 35 3643
+get 149
+get 7
+get 128
+get 5
+get 107
+get 87
+get 94
+put 77 5073
+get 90
+get 0
+get 53
+put 42 811
+get 20
+put 116 2875
+get 40
+get 136
+get 140
+get 104
+put 134 322
+put 126 8176
+get 63
+put 5 1200
+put 137 8478
+get 14
+put 94 9725
+put 83 5532
+get 97
+get 65
+get 64
+get 104
+put 72 6083
+get 18
+get 88
+get 80
+put 20 3524
+get 117
+get 89
+get 66
+get 15
+get 48
+get 21
+get 94
+put 0 8742
+put 47 8499
+get 51
+get 143
+get 38
+get 49
+put 45 5558
+put 89 1827
+get 141
+put 138 4884
+get 130
+put 144 2733
+put 61 6493
+get 139
+put 31 1449
+get 147
+put 12 7470
+put 99 9957
+get 15
+put 137 5596
+put 18 1499
+get 109
+get 92
+put 126 8950
+get 90
+put 106 4939
+put 96 9762
+put 40 4135
+get 34
+get 59
+get 109
+get 95
+get 9
+put 7 9454
+put 49 9626
+get 147
+put 38 4642
+get 50
+get 54
+get 70
+put 129 5258
+get 148
+put 111 2765
+get 124
+put 0 6158
+put 138 7246
+get 9
+put 74 1438
+get 103
+get 129
+put 115 2815
+put 46 7623
+put 40 6007
+put 65 6067
+get 19
+get 84
+get 79
+get 81
+get 50
+get 60
+get 12
+put 120 7558
+get 92
+get 104
+get 97
+put 59 2886
+get 7
+get 114
+put 64 2825
+put 122 4250
+get 64
+get 26
+put 105 6230
+get 13
+get 131
+get 68
+put 106 9377
+get 27
+put 102 7649
+get 11
+get 14
+get 42
+put 143 658
+get 125
+get 91
+get 73
+put 23 9786
+get 14
+put 81 2693
+put 85 8827
+get 102
+get 34
+get 39
+get 46
+get 129
+put 86 5584
+put 9 7807
+get 40
+get 75
+get 61
+get 114
+put 58 3344
+get 76
+put 72 8066
+put 53 354
+put 47 7397
+get 79
+put 36 1742
+get 146
+get 144
+get 104
+get 62
+get 35
+get 141
+get 63
+get 124
+get 15
+put 66 6041
+put 124 3717
+put 137 2364
+get 118
+get 136
+get 66
+get 115
+get 121
+get 121
+get 90
+put 79 4653
+put 37 1290
+put 130 5812
+get 99
+put 1 9803
+get 75
+get 50
+put 30 5401
+put 119 5080
+get 91
+put 19 5294
+put 106 3633
+get 12
+get 133
+put 52 7678
+put 86 8143
+put 110 1133
+put 43 947
+put 77 7008
+put 97 6610
+put 107 4717
+get 58
+get 124
+get 89
+put 46 4242
+get 0
+get 26
+get 35
+put 75 8599
+get 51
+get 97
+get 75
+get 52
+get 89
+get 57
+put 94 8328
+get 90
+put 71 1417
+get 38
+put 141 25
+get 140
+get 118
+put 118 564
+put 130 513
+put 30 6919
+get 140
+put 36 4890
+put 5 8808
+get 92
+put 137 9646
+put 137 9890
+get 79
+put 33 1446
+get 7
+get 57
+get 81
+get 122
+get 103
+get 59
+get 5
+get 4
+get 14
+get 124
+get 138
+put 111 7896
+put 79 7903
+get 57
+get 5
+put 10 7639
+get 65
+put 38 639
+put 82 9812
+get 56
+put 47 4993
+put 12 8328
+get 12
+get 120
+get 98
+get 62
+put 22 6586
+put 61 3821
+get 114
+get 16
+get 51
+put 128 7141
+put 53 6083
+put 83 4054
+get 44
+get 47
+get 33
+get 75
+put 118 2581
+get 86
+get 144
+get 109
+get 93
+put 40 3710
+put 45 5630
+put 16 7926
+put 82 2115
+put 47 4539
+put 142 8173
+get 132
+put 30 4391
+put 48 8747
+get 129
+put 130 6324
+get 90
+put 74 8898
+get 6
+get 89
+get 4
+put 133 5109
+get 80
+get 84
+put 89 5831
+get 61
+put 95 6009
+put 118 6195
+put 101 4635
+get 68
+get 79
+get 84
+put 106 5691
+put 23 7698
+put 9 4779
+put 78 1404
+get 84
+put 73 536
+get 102
+put 63 7250
+put 43 1703
+get 20
+get 71
+put 121 5911
+get 84
+get 24
+put 132 5782
+put 80 3011
+put 109 5820
+get 91
+get 96
+get 56
+get 34
+put 124 4647
+get 113
+get 118
+put 134 686
+put 47 9067
+put 135 2156
+get 52
+put 105 4098
+get 17
+get 65
+put 51 631
+put 139 1018
+put 59 5508
+get 60
+get 7
+put 0 824
+get 27
+get 91
+put 101 8011
+get 133
+get 58
+put 31 6380
+get 97
+put 139 6403
+get 6
+get 40
+get 48
+get 133
+get 112
+get 66
+get 126
+get 119
+get 90
+get 31
+get 52
+put 50 1705
+get 109
+get 15
+get 0
+put 56 4123
+get 84
+get 104
+put 133 7716
+put 84 7058
+get 27
+put 97 7550
+get 121
+get 139
+put 83 5667
+put 143 3792
+get 33
+put 119 9861
+put 17 8498
+put 54 3934
+put 0 367
+get 68
+get 68
+get 87
+put 65 6703
+get 79
+get 6
+get 9
+put 93 5753
+put 32 9912
+get 131
+put 134 4450
+put 76 1144
+get 23
+get 35
+get 2
+put 56 7295
+get 68
+put 8 2347
+get 84
+get 23
+get 65
+put 63 6611
+get 80
+get 133
+get 26
+get 60
+get 109
+get 47
+get 37
+get 30
+put 53 4599
+put 51 6092
+put 94 4128
+put 128 7365
+put 40 8393
+put 91 9672
+get 109
+put 8 1525
+get 5
+get 61
+put 78 6273
+put 56 7839
+put 27 3354
+get 142
+put 66 2143
+put 26 7744
+get 136
+get 82
+put 36 4107
+put 135 6480
+get 76
+put 61 752
+put 131 9775
+put 85 99
+get 80
+get 69
+get 117
+get 87
+put 129 7171
+get 39
+put 47 191
+get 22
+put 47 2860
+get 80
+get 90
+get 122
+get 62
+get 101
+put 129 1771
+get 69
+put 143 9751
+put 143 5188
+get 99
+get 127
+get 146
+put 146 5946
+get 0
+get 15
+put 113 2276
+put 61 2084
+get 55
+get 71
+put 104 4273
+put 68 7817
+put 99 6780
+get 73
+put 103 5846
+get 10
+put 45 7082
+get 5
+get 39
+get 69
+get 28
+get 40
+put 121 5345
+get 119
+put 10 9229
+get 54
+put 97 3434
+put 118 8626
+put 73 1221
+get 55
+get 101
+put 70 2670
+get 10
+put 58 303
+put 52 7753
+put 96 3567
+put 139 5349
+get 97
+put 125 8886
+put 82 6420
+get 10
+get 14
+get 53
+put 146 9244
+get 82
+get 75
+get 90
+get 54
+get 105
+put 118 513
+get 39
+get 115
+get 92
+put 130 2826
+get 73
+put 1 3857
+put 54 5389
+put 97 1331
+put 86 2461
+get 91
+get 84
+get 118
+get 108
+get 77
+put 141 5936
+get 69
+put 136 8497
+put 77 863
+get 85
+get 2
+put 17 9172
+put 70 2192
+get 45
+put 144 6612
+get 84
+get 89
+put 98 1460
+put 106 5455
+get 51
+put 48 1208
+put 130 1029
+get 26
+get 144
+get 54
+put 63 1833
+put 47 7578
+get 128
+put 8 4333
+put 13 9678
+get 76
+get 45
+get 8
+get 36
+get 103
+put 1 1039
+get 62
+get 135
+get 92
+get 121
+put 150 3060
+get 106
+put 80 6752
+get 87
+get 106
+get 40
+get 8
+get 68
+get 136
+get 88
+get 127
+get 51
+get 118
+get 42
+put 107 4495
+put 147 3709
+put 88 6929
+put 97 8115
+get 130
+get 23
+put 98 4109
+get 54
+get 67
+get 21
+get 88
+put 92 2143
+get 58
+put 85 5695
+get 2
+get 130
+get 62
+get 41
+get 110
+get 21
+get 86
+get 54
+get 87
+get 78
+get 121
+put 131 8460
+put 79 1382
+get 21
+get 7
+get 33
+get 129
+put 52 1409
+put 16 7173
+get 67
+get 42
+get 5
+get 76
+put 126 7266
+put 110 2566
+put 19 1709
+get 131
+get 128
+put 21 8228
+put 40 7512
+get 118
+get 113
+put 25 3470
+get 144
+put 143 961
+put 49 7296
+get 93
+get 120
+get 51
+put 51 2663
+get 120
+get 107
+get 18
+put 29 5797
+put 40 4146
+get 77
+put 78 9213
+get 18
+put 115 5030
+get 130
+put 4 2380
+get 129
+get 141
+put 136 7190
+get 34
+put 100 3118
+get 63
+put 0 95
+put 55 3486
+put 119 9141
+get 134
+put 55 3053
+get 124
+get 102
+get 92
+get 37
+put 110 4911
+get 11
+get 126
+put 22 7749
+get 82
+get 131
+get 81
+put 145 7737
+put 37 4516
+put 127 6263
+get 145
+put 20 8676
+get 147
+get 31
+get 40
+get 139
+get 45
+put 10 753
+get 45
+put 31 2892
+put 125 3963
+get 11
+get 7
+put 5 9724
+get 83
+get 48
+put 143 7166
+get 18
+put 17 3976
+put 13 3070
+get 26
+get 76
+get 56
+get 15
+put 56 5954
+get 130
+get 5
+get 38
+put 133 9975
+put 134 4042
+put 51 2799
+put 29 8984
+get 50
+get 54
+get 68
+put 115 4155
+get 14
+get 148
+put 108 4793
+get 43
+get 124
+get 134
+get 132
+put 78 4432
+put 141 1470
+put 31 2136
+get 140
+put 129 6901
+get 70
+get 86
+put 72 7511
+get 126
+get 135
+put 105 4640
+put 148 6161
+get 95
+get 79
+put 137 7342
+put 121 8156
+get 144
+put 143 1449
+put 100 6763
+get 103
+get 57
+put 59 4918
+put 49 8568
+get 18
+put 130 9958
+put 98 4789
+put 96 5119
+get 121
+put 123 6963
+get 150
+get 26
+get 58
+get 119
+get 73
+put 66 1302
+get 61
+get 89
+put 55 3662
+put 77 1647
+get 9
+put 24 7709
+get 52
+put 102 8884
+put 62 6185
+get 31
+get 61
+put 65 1817
+put 25 5391
+get 125
+get 147
+get 41
+get 5
+put 22 9304
+get 33
+put 53 4278
+put 135 3518
+get 51
+get 125
+get 37
+get 117
+get 125
+get 38
+get 21
+get 145
+get 31
+get 125
+put 39 4878
+get 38
+get 1
+get 113
+put 26 2400
+get 41
+put 73 2047
+put 74 2495
+get 119
+put 84 8739
+put 132 1065
+get 118
+put 73 5687
+put 127 7047
+get 42
+put 50 2234
+get 7
+get 36
+get 115
+get 130
+get 57
+get 60
+get 35
+get 142
+put 47 4451
+put 111 7878
+get 113
+get 29
+get 27
+put 34 2504
+put 146 5486
+get 123
+get 109
+put 122 8757
+put 53 1795
+put 72 409
+get 110
+get 52
+get 89
+get 42
+get 90
+get 55
+put 41 4424
+put 117 7918
+put 54 1741
+get 5
+put 145 6994
+get 130
+get 34
+put 77 4479
+put 53 6174
+put 66 2738
+get 122
+get 82
+get 61
+put 139 2075
+get 88
+get 68
+get 16
+get 34
+put 83 6237
+get 149
+get 18
+get 69
+put 41 9040
+get 81
+get 105
+put 19 3314
+get 62
+get 147
+get 31
+get 24
+get 126
+put 42 3977
+get 86
+put 76 9646
+put 80 2056
+get 56
+get 90
+get 95
+put 87 7001
+get 38
+put 16 5206
+put 54 7325
+get 19
+put 125 5996
+get 71
+get 113
+put 80 2026
+put 72 3954
+put 48 6493
+put 4 5248
+put 41 7214
+get 118
+get 78
+put 102 9457
+get 78
+get 64
+get 120
+put 90 1326
+put 53 1609
+get 12
+get 83
+get 36
+get 145
+get 37
+put 57 4283
+get 27
+put 0 3940
+put 50 8108
+put 76 6684
+get 76
+get 144
+put 6 738
+put 147 5087
+get 35
+get 38
+put 10 8990
+put 6 5719
+get 74
+get 22
+put 118 5058
+get 100
+get 27
+put 140 5502
+get 38
+put 100 3474
+put 78 185
+put 57 1515
+get 43
+get 136
+put 114 2461
+get 11
+get 78
+put 146 6755
+get 146
+get 17
+get 71
+get 42
+put 21 2996
+get 53
+put 16 3399
+put 18 5479
+get 96
+put 148 719
+get 146
+put 72 4292
+get 77
+put 51 8507
+get 48
+put 17 3498
+get 19
+put 35 4462
+put 140 1581
+put 99 1677
+put 111 4988
+get 75
+put 12 8469
+get 99
+get 124
+get 11
+get 72
+get 136
+put 10 3059
+get 12
+get 80
+get 148
+put 1 6985
+put 129 4866
+put 78 8060
+get 26
+get 17
+put 137 526
+get 134
+get 128
+get 81
+get 15
+get 126
+get 105
+get 115
+get 138
+get 81
+put 59 7232
+get 31
+get 20
+put 136 2420
+put 58 2665
+put 39 7942
+get 76
+put 38 916
+get 136
+get 127
+put 39 5346
+put 49 611
+get 85
+put 21 2962
+get 134
+get 86
+get 107
+put 66 29
+get 10
+get 50
+put 23 5930
+put 64 3132
+get 12
+get 35
+get 85
+get 82
+get 5
+get 130
+get 76
+get 74
+put 48 9731
+get 129
+get 115
+get 59
+get 128
+get 113
+get 123
+get 16
+put 44 8033
+put 85 389
+get 127
+get 64
+get 123
+get 48
+get 144
+get 139
+get 54
+put 145 727
+put 51 2136
+get 20
+put 61 585
+put 58 2043
+put 82 6490
+get 19
+put 87 9177
+get 50
+put 27 9643
+get 86
+put 17 5909
+get 24
+put 48 8741
+get 14
+get 130
+get 139
+put 46 7373
+get 94
+put 37 4900
+put 86 1558
+get 122
+get 56
+get 21
+put 143 5325
+get 138
+get 108
+get 106
+put 30 2105
+put 149 6089
+get 50
+put 104 3412
+put 47 3571
+get 135
+put 110 6998
+get 150
+get 41
+put 141 8839
+get 149
+put 131 3245
+get 112
+get 27
+put 96 4704
+put 68 774
+get 126
+get 142
+get 129
+get 137
+get 80
+put 8 6049
+get 41
+get 134
+get 74
+get 21
+put 81 9284
+put 28 5032
+get 48
+get 91
+get 116
+get 131
+put 127 8789
+put 41 4145
+get 72
+put 96 2838
+get 132
+put 27 2303
+put 22 7243
+get 103
+put 13 1957
+get 58
+get 29
+get 148
+get 22
+get 129
+put 39 1169
+get 83
+get 60
+put 24 7109
+get 113
+put 16 1127
+get 150
+put 142 765
+get 32
+get 2
+get 23
+get 144
+get 123
+get 55
+get 12
+put 99 9955
+get 135
+get 15
+get 3
+put 134 2010
+get 136
+get 50
+put 108 963
+get 28
+get 81
+put 1 9409
+get 130
+get 46
+put 77 2780
+get 145
+get 64
+put 112 3403
+get 123
+get 54
+get 129
+get 92
+put 42 6653
+put 75 1269
+get 67
+put 137 5094
+get 11
+get 57
+put 69 5302
+put 150 4294
+get 56
+put 9 3349
+put 122 8001
+put 13 1395
+get 39
+put 76 86
+put 33 9001
+put 53 9881
+get 54
+get 99
+get 50
+get 146
+get 85
+get 0
+put 87 5187
+get 58
+put 130 8528
+get 55
+get 21
+get 112
+put 62 632
+put 135 5996
+put 4 1533
+get 11
+put 18 8652
+put 22 6746
+put 38 9822
+put 114 999
+put 115 995
+put 34 4983
+put 89 7631
+get 119
+put 106 7102
+get 96
+get 73
+get 27
+get 60
+get 146
+get 125
+put 73 8765
+put 120 5456
+get 55
+get 74
+get 93
+get 132
+get 117
+put 102 755
+put 48 6124
+put 88 6837
+get 125
+get 97
+put 125 5640
+get 76
+put 112 2057
+get 142
+get 142
+put 0 4307
+get 125
+put 108 5555
+put 141 9906
+put 111 5690
+get 20
+put 0 7880
+put 123 8610
+put 107 7687
+put 111 6912
+put 27 94
+get 99
+get 38
+put 29 7162
+put 123 8851
+get 17
+put 134 6997
+put 26 4163
+put 30 9844
+get 6
+get 124
+get 9
+get 74
+put 77 9295
+get 39
+get 134
+get 69
+get 61
+put 75 2761
+put 38 71
+get 137
+get 134
+get 140
+put 31 1601
+put 54 9527
+get 117
+get 148
+get 83
+get 125
+put 65 2817
+get 79
+get 78
+get 102
+get 106
+get 72
+put 83 3544
+get 68
+get 34
+get 6
+get 107
+get 103
+get 96
+get 43
+get 110
+put 58 5624
+put 62 3876
+get 105
+put 82 109
+get 35
+get 92
+get 70
+get 134
+get 56
+get 40
+get 3
+put 150 1457
+put 30 7768
+get 66
+put 72 2325
+put 5 6862
+get 33
+get 143
+put 44 1104
+put 16 2647
+put 137 3664
+get 87
+get 13
+get 146
+get 148
+get 27
+put 131 5657
+get 86
+put 43 8571
+get 37
+put 3 8126
+put 28 9681
+put 91 2386
+get 98
+get 126
+get 20
+get 5
+put 61 1174
+get 130
+put 136 5427
+get 99
+put 76 7834
+put 67 8707
+put 97 4613
+get 100
+put 78 1900
+get 60
+get 22
+put 27 8991
+get 112
+get 130
+put 114 4544
+get 77
+put 3 6998
+get 144
+get 142
+put 88 9557
+get 130
+put 131 2802
+get 77
+get 97
+put 79 5314
+put 95 2531
+put 22 2681
+get 113
+get 23
+get 61
+get 41
+put 50 2404
+get 68
+get 116
+get 67
+get 60
+get 52
+get 129
+get 65
+get 44
+put 85 1983
+put 147 7222
+get 27
+put 139 4629
+put 119 148
+get 129
+get 2
+get 137
+put 1 3887
+put 117 3540
+put 49 488
+get 62
+get 92
+get 87
+put 103 5515
+get 86
+get 130
+get 81
+get 40
+put 60 8477
+get 111
+put 11 206
+get 17
+get 116
+put 34 392
+put 34 6439
+put 125 5839
+get 150
+get 140
+get 67
+get 7
+put 37 466
+put 61 5250
+put 77 6989
+get 29
+get 21
+get 33
+put 22 3553
+get 141
+get 131
+put 2 4360
+get 42
+get 101
+put 117 1102
+get 32
+get 52
+put 22 5225
+get 34
+get 27
+put 81 3656
+get 28
+get 24
+put 63 5492
+get 80
+get 91
+get 149
+put 146 6827
+put 43 8559
+get 37
+put 77 1881
+get 11
+get 21
+put 110 9148
+get 115
+get 0
+get 5
+put 67 556
+put 18 9353
+put 102 7175
+put 80 243
+get 82
+put 81 1075
+put 115 5137
+put 47 2219
+put 7 9858
+put 137 7787
+put 130 1575
+get 53
+get 99
+get 80
+get 81
+put 9 8108
+get 140
+get 12
+get 109
+put 115 5764
+put 56 1672
+get 102
+get 88
+get 7
+get 23
+get 113
+get 114
+get 73
+get 66
+get 63
+put 112 5859
+put 132 3935
+get 66
+get 100
+put 50 852
+get 103
+get 7
+put 31 7318
+put 30 9872
+get 119
+get 19
+get 17
+get 87
+put 63 3656
+get 128
+get 39
+get 8
+get 145
+get 98
+put 19 9942
+put 48 4039
+get 16
+get 74
+get 19
+get 114
+get 121
+put 120 2389
+get 66
+get 84
+put 47 7880
+put 134 3425
+get 9
+put 90 7115
+get 72
+get 14
+put 112 9086
+put 94 2115
+put 90 4171
+get 11
+get 93
+get 0
+get 74
+put 80 8816
+put 150 1876
+get 139
+get 21
+put 136 6862
+get 108
+get 128
+put 51 359
+get 93
+put 138 9804
+put 26 307
+put 88 5226
+get 139
+put 63 1909
+get 65
+put 137 9960
+put 106 3136
+put 139 2062
+get 81
+get 25
+get 53
+get 100
+get 94
+get 116
+put 144 1343
+get 16
+put 96 1481
+put 60 4654
+get 27
+put 0 9759
+put 87 4792
+get 142
+put 14 2145
+put 149 3836
+put 90 3389
+get 150
+put 115 3682
+put 14 7417
+put 133 4555
+put 102 7869
+put 71 60
+get 36
+get 40
+put 142 9385
+put 12 5184
+put 69 7394
+get 11
+put 9 6411
+put 81 3059
+put 37 6341
+put 70 6452
+get 139
+put 127 3714
+put 38 8240
+put 120 4140
+put 100 2553
+get 55
+get 100
+get 74
+get 71
+get 32
+get 21
+put 128 3605
+get 91
+get 41
+get 20
+get 28
+put 12 3420
+get 12
+put 87 2865
+get 68
+put 58 2054
+get 31
+get 67
+put 135 1336
+get 133
+get 47
+get 47
+get 84
+get 2
+get 24
+put 127 9068
+get 143
+get 114
+get 52
+put 89 3273
+get 42
+put 64 714
+get 48
+put 74 350
+get 38
+put 38 8047
+get 22
+get 141
+get 67
+get 58
+get 72
+get 113
+get 16
+get 148
+get 14
+get 43
+put 84 2077
+put 108 1636
+get 94
+get 138
+get 109
+get 101
+get 148
+get 150
+get 115
+get 124
+put 81 5758
+get 93
+get 75
+get 130
+put 6 7999
+get 4
+put 115 1661
+get 73
+get 65
+get 116
+get 58
+put 20 6218
+put 102 4101
+get 92
+get 116
+get 132
+get 118
+get 141
+get 42
+get 18
+get 97
+get 145
+put 86 3938
+get 95
+put 139 3618
+get 120
+get 4
+get 26
+put 2 4638
+put 142 2239
+get 135
+put 4 7018
+put 90 6623
+get 104
+get 12
+put 14 222
+get 124
+put 90 5831
+put 47 3926
+get 144
+get 100
+get 15
+get 94
+get 71
+put 11 8635
+get 62
+get 115
+put 98 6229
+get 62
+put 31 5871
+get 83
+get 99
+get 95
+get 129
+get 45
+put 67 3413
+put 127 1369
+put 57 8532
+get 142
+put 140 1568
+get 122
+put 74 6915
+get 117
+get 64
+get 135
+get 122
+put 17 3635
+get 139
+put 33 2415
+get 47
+get 114
+put 89 9012
+put 107 6380
+get 131
+get 14
+get 83
+get 59
+get 127
+get 150
+get 123
+get 70
+get 29
+get 6
+get 88
+get 136
+get 142
+get 88
+put 68 5290
+get 55
+get 11
+put 27 9596
+get 9
+put 68 6886
+get 20
+get 32
+put 3 370
+put 41 5385
+get 125
+get 21
+get 28
+put 83 5625
+get 146
+get 11
+put 15 5647
+get 69
+put 18 5503
+get 140
+get 60
+get 94
+get 73
+get 30
+get 15
+put 22 5305
+put 0 2990
+get 104
+get 115
+get 110
+put 20 7818
+put 24 648
+put 104 9479
+get 55
+get 88
+put 63 9505
+put 70 9123
+get 0
+put 143 7034
+put 120 5911
+get 83
+get 108
+get 21
+put 74 396
+get 129
+get 60
+get 43
+get 44
+get 33
+get 54
+get 72
+get 66
+put 94 5248
+put 25 4554
+put 51 5556
+get 10
+get 145
+put 140 8322
+put 87 4979
+get 61
+get 139
+get 147
+get 63
+get 77
+get 16
+put 75 9421
+get 27
+put 94 3237
+get 75
+get 75
+get 71
+get 43
+get 26
+get 115
+get 68
+get 76
+get 109
+put 35 9509
+get 57
+put 43 4129
+get 118
+put 14 9911
+put 36 7023
+get 60
+get 7
+get 129
+put 116 2654
+put 18 4119
+put 32 3967
+get 68
+get 146
+put 137 90
+get 36
+get 2
+get 17
+get 12
+put 96 8185
+get 3
+get 29
+get 42
+get 47
+put 86 1329
+put 149 6689
+get 27
+put 27 3603
+get 148
+put 0 5646
+get 10
+get 124
+get 146
+get 49
+put 141 6790
+put 111 3985
+get 142
+put 140 63
+put 31 9444
+get 119
+get 56
+get 40
+put 3 2339
+get 9
+get 136
+get 53
+get 136
+get 40
+put 55 9089
+get 67
+get 112
+get 62
+put 122 7032
+put 98 6673
+get 13
+put 146 1500
+put 113 1137
+put 16 4859
+put 133 1314
+get 86
+put 102 4794
+put 51 6283
+get 143
+get 5
+get 50
+put 3 9207
+get 64
+get 82
+put 136 6102
+put 139 23
+put 40 934
+get 101
+put 111 2096
+get 106
+get 134
+get 11
+get 58
+put 17 3565
+put 69 6471
+put 0 5737
+get 124
+get 69
+put 39 3988
+get 63
+get 1
+get 28
+get 66
+put 107 8799
+get 59
+get 37
+get 58
+put 91 633
+get 31
+get 147
+get 70
+put 13 202
+get 141
+get 36
+put 90 5103
+get 74
+get 28
+put 44 6773
+put 99 7231
+get 12
+get 143
+put 37 4038
+put 1 3377
+get 36
+get 36
+get 4
+put 146 5682
+put 7 4307
+get 130
+get 110
+put 39 7867
+get 104
+get 138
+get 73
+put 107 2518
+get 110
+get 105
+put 53 7529
+put 38 5827
+get 77
+get 39
+get 107
+get 100
+get 38
+put 144 2215
+put 111 9143
+put 33 3394
+get 45
+get 54
+get 107
+get 61
+get 139
+get 49
+put 87 8960
+get 10
+put 19 5739
+get 140
+put 127 1840
+get 29
+get 90
+put 89 6887
+get 90
+get 118
+get 132
+get 74
+put 141 7686
+get 113
+get 27
+put 9 3581
+put 122 490
+get 103
+get 62
+put 140 4744
+get 95
+put 110 5173
+put 100 5528
+get 118
+put 2 7162
+put 139 1126
+get 62
+put 79 4081
+get 61
+get 11
+get 132
+put 83 9105
+get 74
+get 82
+put 55 5791
+put 75 3202
+put 23 3476
+get 34
+put 28 316
+get 7
+put 93 1107
+get 22
+get 28
+get 36
+get 103
+get 102
+put 45 6742
+get 111
+get 117
+put 101 9698
+get 122
+get 124
+get 1
+get 26
+get 118
+get 18
+put 67 2783
+put 21 7648
+get 62
+get 98
+get 101
+get 125
+get 25
+put 8 7636
+put 82 4541
+get 52
+get 10
+get 138
+get 125
+get 30
+get 98
+put 12 8284
+put 108 9940
+put 139 9743
+get 45
+get 75
+put 58 1787
+get 105
+put 109 2758
+put 66 6277
+get 53
+get 98
+put 46 7749
+put 141 3207
+get 92
+get 94
+get 133
+put 47 2939
+get 50
+get 71
+put 17 3417
+get 129
+get 99
+put 37 292
+get 143
+put 76 4517
+get 23
+get 33
+put 29 3214
+put 122 319
+get 8
+get 5
+put 72 7087
+put 33 1938
+get 139
+get 52
+get 85
+put 9 9214
+get 43
+put 134 1009
+get 78
+get 111
+get 42
+get 143
+get 17
+put 84 8267
+get 119
+get 120
+get 6
+put 115 6476
+put 24 9155
+get 105
+get 20
+get 110
+get 13
+put 58 2166
+get 105
+get 6
+put 19 5913
+get 142
+get 90
+get 22
+put 92 4890
+get 132
+put 49 5505
+get 17
+put 78 9398
+get 85
+put 9 1372
+get 94
+put 139 9544
+get 77
+put 59 2354
+get 64
+get 68
+get 13
+get 113
+put 9 8225
+put 101 6604
+put 15 6288
+get 148
+put 82 6516
+get 35
+get 73
+put 30 1643
+get 111
+get 127
+put 16 6036
+put 0 7916
+get 95
+get 79
+get 67
+get 20
+get 35
+put 128 1439
+get 149
+put 145 7759
+get 8
+get 15
+put 23 5938
+get 110
+put 47 1438
+get 99
+put 54 7742
+get 35
+put 71 2877
+get 112
+put 102 3761
+get 26
+put 59 4735
+put 115 4394
+put 49 8318
+get 55
+get 92
+put 146 6225
+get 84
+get 1
+get 129
+put 115 2106
+get 25
+get 15
+put 4 7349
+get 111
+get 150
+get 16
+get 50
+get 50
+get 69
+put 2 9730
+get 77
+put 117 3363
+get 2
+get 70
+get 15
+put 62 1077
+put 124 1737
+put 112 2034
+get 149
+put 85 1991
+get 120
+get 8
+get 97
+put 79 9653
+put 105 9562
+put 134 6425
+get 43
+put 6 7850
+get 9
+get 120
+get 17
+get 60
+put 83 769
+put 61 3578
+get 12
+get 42
+put 9 180
+get 43
+put 80 7706
+get 61
+get 38
+put 30 9293
+put 67 5572
+get 118
+get 61
+put 99 8369
+get 98
+put 1 7586
+get 102
+put 106 6371
+put 94 3499
+put 81 5169
+put 49 6003
+put 106 5215
+get 48
+put 49 402
+get 49
+get 145
+get 5
+put 109 8769
+put 45 5161
+get 98
+put 35 1665
+get 35
+get 19
+get 85
+get 49
+get 79
+get 15
+get 127
+get 44
+get 9
+get 74
+put 29 6275
+get 48
+put 50 4994
+get 59
+get 142
+put 31 6939
+get 54
+get 150
+put 142 6205
+put 101 6278
+get 23
+put 24 1507
+get 72
+get 143
+put 74 4705
+get 33
+put 33 8616
+put 112 7768
+get 15
+put 149 6448
+get 121
+get 134
+put 9 9336
+get 45
+put 139 91
+get 9
+put 42 7014
+get 31
+put 17 259
+get 48
+get 108
+get 93
+get 120
+put 3 1486
+put 150 830
+get 43
+get 114
+get 14
+get 137
+put 147 6470
+get 42
+put 34 5148
+put 93 5283
+get 92
+put 75 5565
+put 23 1971
+get 136
+put 55 558
+get 53
+put 96 2620
+put 22 4754
+get 122
+get 80
+put 11 3212
+put 105 1940
+put 45 6617
+put 96 9326
+put 117 7274
+get 98
+put 53 9968
+put 112 85
+put 136 6780
+put 122 8335
+put 101 2821
+get 124
+get 5
+get 12
+put 110 1945
+get 68
+get 21
+get 34
+put 64 2729
+get 87
+put 126 6159
+put 83 78
+get 39
+put 41 9019
+put 146 4577
+get 17
+get 89
+put 85 4915
+get 75
+get 130
+get 6
+get 109
+get 29
+put 14 9438
+get 56
+get 15
+get 104
+get 87
+get 26
+get 66
+put 148 3558
+get 81
+put 71 3161
+put 15 7011
+get 55
+get 112
+put 4 3569
+put 5 4846
+put 134 3540
+put 137 9976
+put 112 1161
+get 65
+get 128
+get 70
+get 10
+put 2 4491
+get 104
+put 75 1311
+put 2 6963
+get 130
+get 31
+get 55
+put 107 273
+get 63
+get 31
+get 35
+get 38
+get 119
+put 86 3768
+put 7 9571
+put 61 1717
+get 83
+get 83
+get 12
+put 51 521
+get 108
+put 130 5852
+get 133
+get 1
+get 63
+put 149 8614
+get 66
+put 42 5923
+get 81
+put 14 3943
+get 51
+get 60
+get 138
+get 39
+put 54 6683
+put 40 374
+get 10
+get 129
+get 91
+get 19
+get 2
+put 92 4288
+put 47 8154
+put 51 2164
+put 147 7961
+get 58
+get 18
+get 17
+put 10 5564
+put 146 8732
+get 123
+get 136
+put 41 7987
+put 60 899
+put 68 3615
+put 83 5868
+get 16
+put 5 1446
+get 9
+put 22 2293
+put 116 7848
+get 128
+get 7
+get 130
+get 150
+put 41 2307
+get 86
+get 76
+get 2
+get 122
+put 150 7188
+get 43
+put 113 8553
+put 133 609
+put 140 2033
+get 90
+get 141
+get 12
+get 10
+put 121 4344
+get 136
+put 92 1564
+get 134
+get 38
+put 42 5115
+get 8
+get 117
+get 68
+get 121
+put 52 9071
+put 66 7773
+put 69 9850
+get 64
+get 113
+get 41
+get 103
+get 33
+get 87
+get 146
+get 114
+get 113
+put 1 190
+put 83 5339
+put 114 1600
+get 45
+put 51 8394
+get 76
+put 42 4280
+get 91
+get 6
+get 65
+put 55 4207
+put 107 2700
+get 63
+put 11 314
+get 54
+put 57 8311
+get 103
+get 101
+put 128 5825
+get 52
+get 91
+get 71
+put 35 3584
+get 150
+put 127 9431
+put 18 4487
+put 13 2975
+put 10 8243
+get 40
+get 135
+put 77 6508
+put 23 7566
+get 123
+put 81 5489
+get 6
+put 4 7415
+put 47 4911
+put 108 2557
+get 56
+get 93
+put 36 7028
+get 132
+get 60
+get 9
+get 105
+get 108
+get 135
+put 129 1912
+put 83 351
+get 73
+get 85
+get 49
+put 86 1496
+put 141 4540
+put 30 7877
+put 1 406
+get 72
+get 7
+put 14 4452
+get 132
+get 52
+get 6
+get 10
+get 89
+put 89 6319
+put 72 5088
+get 46
+put 128 9963
+get 62
+put 6 5729
+put 98 701
+get 117
+put 58 517
+put 22 4809
+get 6
+get 98
+get 108
+put 97 4504
+put 148 5486
+put 143 2234
+get 43
+get 0
+get 64
+put 145 4138
+put 147 6393
+put 17 2773
+get 86
+get 58
+put 41 5010
+put 84 9217
+get 111
+put 73 5157
+get 53
+get 36
+get 29
+put 119 8203
+get 43
+get 98
+put 108 8264
+get 84
+put 114 8533
+get 135
+put 79 4770
+get 72
+get 89
+put 50 5967
+get 147
+get 17
+get 10
+get 23
+get 87
+put 80 4406
+get 63
+get 134
+get 133
+get 104
+get 32
+get 120
+get 62
+get 70
+put 24 2422
+get 77
+get 101
+get 110
+get 25
+get 146
+get 3
+get 149
+put 63 9698
+get 88
+get 77
+put 99 4142
+get 11
+put 51 1007
+put 52 3653
+get 118
+put 27 8158
+get 28
+get 9
+get 29
+put 33 1522
+get 128
+put 38 7606
+get 52
+get 112
+put 14 1750
+put 144 7301
+get 89
+put 3 1769
+put 19 7017
+put 34 6465
+get 113
+get 115
+get 46
+get 80
+get 45
+get 75
+put 146 635
+get 28
+get 89
+put 19 402
+get 48
+put 84 2824
+get 127
+put 119 5634
+get 22
+put 51 409
+get 59
+get 78
+put 47 1674
+get 88
+get 31
+get 81
+get 94
+put 93 7903
+get 23
+get 67
+get 7
+get 78
+get 49
+put 149 8176
+put 83 374
+get 34
+put 148 7589
+get 78
+put 84 1391
+get 13
+get 98
+get 29
+get 111
+get 4
+get 32
+put 5 9658
+get 134
+put 15 8722
+get 73
+put 132 5607
+put 127 1764
+get 61
+put 139 4542
+get 143
+get 49
+get 18
+get 30
+get 47
+put 134 1445
+get 6
+get 43
+put 29 8080
+get 64
+get 7
+put 58 4980
+put 70 2191
+get 2
+get 112
+get 78
+put 48 9701
+get 42
+get 118
+get 124
+get 107
+get 54
+get 80
+get 141
+put 25 2720
+put 77 1688
+put 127 8250
+put 109 202
+get 11
+put 72 6649
+get 35
+put 147 6233
+put 93 420
+get 83
+get 68
+get 108
+put 130 6275
+put 129 1280
+put 2 2405
+get 39
+get 112
+put 112 6701
+get 40
+put 74 9228
+get 33
+get 20
+put 22 3585
+put 14 3809
+get 0
+put 134 1884
+get 50
+get 76
+get 47
+put 65 9130
+get 35
+get 19
+get 74
+get 149
+get 5
+get 148
+put 97 520
+put 31 8450
+get 145
+get 15
+put 28 8773
+get 37
+get 147
+get 123
+put 27 4942
+put 105 2629
+get 6
+get 127
+get 98
+put 124 8451
+put 120 5128
+get 15
+put 112 1538
+get 132
+get 46
+put 95 4939
+put 52 4073
+get 11
+get 7
+put 23 8
+put 131 1527
+put 97 8459
+get 49
+get 54
+put 107 7602
+get 56
+put 139 335
+get 36
+put 83 578
+put 41 9660
+put 149 8239
+get 148
+get 137
+get 106
+get 15
+get 106
+get 102
+get 4
+put 70 8812
+put 130 547
+put 112 2076
+put 32 2741
+put 30 8125
+put 18 5266
+get 138
+put 15 512
+put 7 1709
+put 84 8956
+get 130
+get 65
+put 31 9065
+get 97
+put 64 4372
+get 149
+get 73
+get 86
+put 69 1253
+get 84
+get 103
+get 74
+get 47
+get 54
+get 125
+get 105
+put 112 1557
+get 12
+get 47
+get 65
+put 97 2952
+put 139 3114
+put 112 9748
+put 23 5646
+put 120 6315
+get 34
+get 141
+put 43 4240
+get 15
+get 13
+get 129
+get 13
+get 2
+put 82 8224
+get 79
+get 60
+get 143
+get 74
+get 91
+get 34
+get 58
+put 14 3014
+get 6
+get 89
+get 100
+get 123
+put 29 8067
+get 77
+put 111 7103
+get 127
+put 67 9578
+get 94
+put 44 788
+get 145
+put 114 5684
+get 120
+get 113
+put 0 152
+put 67 5447
+put 2 5394
+get 68
+get 14
+put 121 1543
+get 140
+put 93 8382
+get 35
+put 132 7061
+put 46 8817
+put 75 821
+put 118 7233
+get 137
+get 54
+get 51
+put 57 5482
+get 93
+put 23 8001
+get 143
+get 29
+put 126 2916
+get 4
+put 125 5012
+put 80 3469
+put 5 9999
+get 27
+get 87
+get 132
+put 137 8004
+get 33
+get 66
+put 87 1848
+get 49
+get 112
+get 89
+get 95
+get 146
+put 141 1189
+put 28 4650
+get 28
+get 88
+put 95 9244
+get 15
+get 45
+put 63 7125
+get 75
+get 98
+get 87
+put 60 3854
+put 79 5531
+get 47
+get 143
+put 21 1732
+put 38 1734
+put 113 6809
+put 140 6104
+get 44
+put 44 1295
+put 110 9614
+get 15
+get 49
+get 87
+put 141 6639
+get 124
+get 63
+get 47
+put 120 2395
+get 55
+put 91 7269
+get 128
+get 76
+put 117 2283
+get 108
+get 126
+put 83 1163
+get 14
+put 142 3984
+get 47
+get 107
+get 49
+put 85 6282
+get 73
+put 136 5652
+get 134
+put 75 4881
+get 128
+get 127
+get 143
+get 26
+put 43 6993
+put 36 443
+get 42
+put 10 9604
+put 23 8285
+get 43
+get 119
+put 92 1943
+get 64
+get 145
+get 57
+get 7
+get 99
+get 33
+get 30
+put 121 2259
+get 59
+get 114
+put 102 640
+get 57
+get 150
+get 32
+get 81
+get 45
+get 106
+get 144
+get 41
+get 115
+get 118
+get 63
+put 73 2578
+put 51 8826
+get 76
+put 39 7857
+put 18 420
+put 113 3477
+put 18 3649
+get 150
+put 59 4987
+put 19 7984
+get 5
+get 63
+get 108
+put 132 1160
+get 25
+put 0 5041
+get 75
+get 77
+get 9
+put 127 990
+put 3 8017
+get 85
+get 24
+get 31
+get 76
+get 57
+put 131 9
+get 18
+put 105 547
+put 94 8837
+get 47
+put 83 852
+put 101 3794
+put 133 756
+put 2 812
+get 106
+put 126 4132
+put 69 9035
+put 27 4342
+get 145
+put 93 2857
+put 149 4096
+put 106 9254
+put 93 7866
+get 37
+put 124 9297
+get 13
+get 138
+put 110 2001
+put 86 2671
+get 10
+put 38 1340
+put 54 8864
+get 53
+put 120 6513
+get 16
+get 41
+get 120
+put 147 6382
+put 78 1193
+get 19
+put 33 1943
+put 115 4472
+get 117
+put 68 7593
+get 88
+get 11
+put 20 6540
+put 49 6529
+get 142
+get 50
+get 57
+get 46
+get 64
+get 15
+put 50 7317
+get 131
+get 128
+get 139
+put 142 586
+get 14
+put 20 1942
+put 99 6808
+get 128
+put 85 4463
+put 29 3428
+get 116
+get 121
+get 36
+get 5
+get 113
+get 99
+get 21
+put 42 65
+get 29
+put 99 1882
+put 133 6170
+put 83 6610
+get 109
+get 115
+get 123
+get 103
+get 115
+put 100 9296
+put 3 4070
+get 55
+get 103
+get 18
+put 111 1934
+put 148 6951
+get 141
+put 116 6306
+put 61 2528
+get 20
+get 27
+get 102
+get 37
+get 62
+get 145
+get 94
+put 51 7303
+get 53
+put 57 5929
+get 82
+get 1
+put 99 4346
+put 95 8691
+get 73
+put 5 4686
+put 121 269
+put 78 5888
+get 82
+put 76 5773
+put 135 4975
+get 18
+put 71 9673
+get 22
+get 32
+get 53
+get 149
+put 120 8295
+get 114
+get 53
+get 144
+get 70
+put 16 7949
+get 39
+get 66
+get 24
+get 49
+get 144
+get 126
+get 121
+put 86 611
+get 105
+put 40 1047
+get 15
+put 33 2168
+get 79
+get 133
+get 5
+get 21
+put 84 9026
+get 113
+put 76 4018
+get 131
+get 15
+put 78 762
+get 128
+get 42
+put 91 300
+get 10
+put 38 822
+get 13
+get 29
+get 60
+put 106 1498
+put 106 1896
+put 50 8863
+get 35
+get 110
+put 82 8576
+put 47 3502
+get 142
+get 43
+get 145
+get 103
+get 74
+get 122
+put 88 1935
+get 99
+get 142
+get 130
+put 43 7682
+get 42
+get 73
+put 139 6132
+get 80
+put 33 7618
+get 29
+get 39
+put 35 4137
+get 64
+get 102
+get 107
+get 124
+get 29
+get 99
+get 148
+put 150 5047
+get 56
+get 54
+put 87 8120
+get 12
+get 16
+get 117
+get 93
+get 21
+put 65 2310
+get 41
+put 105 6472
+put 131 4896
+get 84
+get 44
+get 128
+put 86 1270
+get 123
+put 61 4950
+put 96 711
+get 83
+get 11
+put 33 3988
+put 142 3248
+get 53
+get 149
+get 129
+get 132
+get 7
+get 37
+put 11 3798
+put 126 9675
+get 12
+get 10
+put 112 7158
+get 114
+put 100 3724
+get 133
+put 128 17
+get 5
+get 43
+get 46
+get 55
+get 80
+get 11
+get 70
+put 52 3451
+get 61
+get 49
+put 76 9895
+get 77
+get 15
+get 41
+get 83
+put 36 3690
+get 85
+get 5
+put 125 3987
+put 18 1045
+put 25 2923
+put 32 4279
+put 1 2257
+put 35 3346
+get 60
+get 8
+put 23 7022
+get 64
+get 107
+get 14
+get 106
+put 55 9317
+get 111
+get 19
+put 62 3260
+put 89 125
+get 133
+get 61
+get 49
+get 34
+put 5 7314
+get 71
+put 9 7067
+get 67
+get 0
+put 110 5278
+put 105 1464
+get 87
+get 69
+get 113
+get 45
+get 31
+put 72 5509
+put 132 8345
+put 24 2928
+put 16 6372
+get 40
+get 109
+get 4
+get 73
+get 75
+get 109
+get 52
+get 20
+put 91 9292
+put 40 1821
+get 42
+put 110 4336
+get 19
+get 95
+get 120
+put 105 9323
+get 125
+get 141
+get 54
+put 112 7971
+get 72
+get 69
+get 66
+put 144 8687
+put 53 1730
+put 67 8871
+get 19
+get 87
+put 50 8146
+put 109 1215
+get 23
+get 85
+get 129
+get 137
+get 77
+put 16 8780
+get 126
+get 89
+get 5
+put 137 7029
+put 8 4776
+put 125 3034
+put 63 803
+put 144 7647
+get 38
+get 26
+get 102
+get 73
+get 37
+get 81
+get 84
+put 29 4891
+put 44 9584
+put 74 5858
+put 54 4259
+put 13 8830
+get 72
+get 79
+get 18
+get 20
+put 146 8509
+get 58
+get 130
+put 124 7328
+put 95 7980
+get 53
+get 28
+get 26
+get 16
+get 101
+get 24
+put 8 5813
+put 147 676
+get 88
+get 51
+get 99
+put 52 8828
+put 74 870
+get 86
+get 17
+put 68 9655
+get 148
+get 89
+get 25
+get 86
+get 95
+get 34
+put 120 8469
+get 67
+get 113
+put 23 9854
+get 73
+get 73
+get 47
+get 81
+put 32 4255
+get 45
+put 111 4347
+get 20
+get 136
+get 142
+get 10
+get 0
+put 84 9741
+get 131
+get 57
+get 141
+get 42
+get 50
+get 55
+get 30
+get 91
+get 79
+get 72
+get 62
+get 132
+put 102 1835
+put 19 2815
+put 119 4852
+put 98 9153
+put 23 1928
+put 143 4606
+get 53
+get 70
+put 82 4468
+put 34 1154
+get 53
+put 100 8396
+put 28 5517
+put 105 5776
+get 51
+put 131 6822
+get 108
+get 19
+put 46 2544
+get 39
+put 13 2951
+get 77
+put 119 3030
+put 149 783
+get 7
+get 132
+get 14
+get 57
+get 143
+get 69
+get 39
+get 106
+put 75 4230
+get 120
+get 70
+get 19
+get 118
+get 67
+get 46
+put 134 9156
+get 118
+get 133
+get 109
+put 99 3944
+put 61 9168
+get 39
+get 134
+get 69
+get 128
+put 146 2926
+get 83
+put 112 8805
+get 125
+get 70
+put 143 9819
+get 84
+put 29 7166
+get 146
+get 150
+get 147
+get 137
+put 138 4516
+get 12
+put 17 7859
+get 91
+put 136 1441
+put 18 7285
+get 142
+get 150
+get 49
+put 141 7583
+get 123
+get 139
+get 96
+get 73
+get 145
+put 36 6083
+put 77 2357
+put 28 2328
+put 126 7405
+get 86
+get 60
+get 67
+put 93 1206
+put 89 8022
+get 31
+get 55
+put 31 3487
+get 104
+get 132
+put 62 1350
+put 18 4816
+get 1
+get 144
+get 109
+get 13
+get 137
+get 94
+put 54 472
+put 55 9498
+put 50 3973
+get 69
+get 67
+get 126
+get 22
+get 28
+get 75
+get 117
+put 76 7549
+get 129
+get 55
+get 50
+put 118 3244
+get 45
+get 23
+get 149
+get 48
+put 2 4431
+put 132 8739
+put 10 4907
+get 20
+put 72 2071
+get 114
+get 94
+put 64 4766
+get 89
+put 40 2497
+put 144 6721
+put 49 1394
+get 39
+get 76
+get 5
+get 89
+get 60
+get 36
+put 44 6836
+get 98
+put 91 7964
+get 87
+get 131
+put 89 7870
+get 29
+get 44
+get 115
+get 83
+put 94 7909
+put 72 6719
+get 146
+put 101 7084
+put 8 5344
+put 115 9836
+get 107
+get 60
+get 1
+get 129
+get 87
+put 100 5901
+put 95 5541
+get 0
+put 72 9671
+get 22
+put 63 1444
+put 25 9616
+put 110 4657
+get 128
+put 41 4441
+put 36 1281
+get 138
+get 59
+get 55
+put 54 376
+put 50 2051
+put 58 1667
+put 21 7493
+put 77 1969
+get 64
+put 66 5300
+get 39
+get 8
+put 68 9947
+get 53
+get 9
+get 110
+get 146
+get 66
+put 140 4051
+get 12
+get 135
+get 50
+put 89 5449
+put 67 3329
+put 66 5244
+get 5
+put 130 6631
+get 40
+put 105 1880
+get 44
+put 137 3368
+get 72
+get 62
+put 22 9174
+put 91 4243
+get 41
+get 145
+get 62
+put 86 6450
+put 7 5368
+get 4
+get 121
+get 137
+put 139 9984
+get 21
+get 75
+get 69
+get 141
+get 110
+put 130 776
+get 69
+get 127
+put 17 9270
+get 120
+get 51
+get 6
+get 135
+put 23 3696
+get 21
+get 144
+put 36 710
+get 129
+get 4
+get 120
+put 101 2797
+get 92
+get 71
+put 146 1072
+put 79 6156
+get 111
+get 43
+put 120 9237
+put 40 4046
+put 3 5929
+get 127
+get 112
+put 42 8450
+put 64 7723
+get 0
+get 124
+put 11 6389
+get 125
+put 113 143
+get 29
+put 74 7012
+put 93 2357
+get 5
+get 103
+get 146
+get 57
+put 146 261
+get 141
+get 61
+get 35
+put 140 5749
+put 29 971
+get 60
+get 125
+get 121
+put 23 1025
+put 55 9852
+put 107 334
+get 42
+get 8
+put 139 4579
+get 67
+get 11
+get 35
+get 117
+put 61 5516
+get 130
+get 13
+get 63
+get 93
+put 146 8067
+get 88
+get 49
+get 96
+put 66 6194
+get 126
+get 96
+put 36 7105
+get 118
+get 60
+put 136 8220
+get 106
+get 96
+get 24
+get 89
+put 89 7055
+put 33 2888
+get 44
+get 36
+get 56
+put 44 3572
+get 148
+get 87
+get 98
+put 15 3278
+put 61 5270
+get 9
+put 108 6600
+put 36 6516
+get 128
+put 0 6252
+put 79 7229
+get 46
+put 121 6004
+get 127
+put 129 651
+get 4
+put 75 3629
+put 142 489
+get 122
+get 36
+put 148 5557
+get 89
+get 140
+get 16
+get 150
+get 65
+put 121 9687
+get 35
+get 62
+put 111 3000
+put 62 3695
+get 35
+put 75 2594
+get 48
+put 76 4660
+put 61 7227
+put 4 5691
+get 114
+get 104
+put 109 9701
+get 17
+put 77 2139
+get 128
+get 130
+put 76 7795
+get 68
+put 92 7214
+get 118
+put 147 2845
+get 54
+get 14
+put 123 2545
+put 73 9690
+get 37
+get 128
+put 51 7674
+get 31
+get 79
+put 67 1513
+get 73
+get 51
+get 40
+put 42 4948
+get 51
+put 130 374
+get 97
+get 62
+put 12 4975
+get 133
+put 18 9850
+put 117 2499
+get 146
+get 83
+get 57
+put 132 7557
+get 8
+put 29 9058
+get 52
+get 18
+get 90
+put 1 4103
+get 8
+get 140
+get 41
+get 150
+put 134 2495
+put 99 3428
+get 0
+put 13 4561
+put 150 3016
+get 90
+put 5 8452
+get 37
+get 53
+get 25
+get 99
+get 105
+put 142 4974
+get 135
+get 122
+put 70 4592
+put 16 7085
+put 100 5511
+get 42
+put 131 2177
+put 85 6661
+get 44
+get 38
+get 150
+get 87
+put 130 9840
+put 100 6787
+put 26 9282
+get 111
+get 18
+put 135 4205
+get 68
+put 92 9521
+get 27
+get 39
+get 133
+get 130
+get 102
+get 23
+put 5 8545
+get 63
+put 30 4834
+put 58 9582
+put 97 129
+put 80 5194
+put 146 4133
+get 124
+get 84
+get 102
+get 26
+put 110 3419
+get 61
+get 78
+put 61 4278
+put 145 5055
+get 27
+put 108 95
+put 62 2416
+put 61 7034
+get 83
+get 134
+get 71
+get 116
+get 50
+put 149 4534
+get 5
+put 147 6413
+get 57
+get 28
+get 125
+put 49 595
+get 84
+put 95 4214
+get 136
+get 86
+get 29
+get 135
+put 149 9912
+get 57
+get 75
+put 43 8720
+put 78 7743
+put 108 5871
+get 57
+put 143 5647
+put 107 4865
+put 107 676
+get 135
+get 148
+put 136 4537
+get 43
+put 110 8450
+put 147 4569
+put 55 671
+get 138
+get 114
+get 147
+get 141
+put 100 1531
+put 31 7871
+put 12 4163
+get 6
+get 41
+put 106 7750
+put 116 9381
+put 137 460
+get 96
+get 89
+get 11
+get 20
+get 31
+get 34
+put 67 2313
+put 77 633
+get 26
+get 49
+put 32 3399
+get 115
+get 16
+put 82 1236
+put 14 804
+get 26
+get 134
+put 30 8168
+get 41
+get 70
+put 117 8714
+get 12
+get 45
+put 100 6701
+get 123
+get 72
+get 111
+put 48 4215
+get 34
+get 14
+put 82 3806
+get 150
+put 106 6204
+put 44 4258
+put 127 6417
+get 102
+put 16 3150
+get 35
+put 1 6241
+get 4
+get 38
+get 35
+get 107
+get 19
+get 116
+put 63 1282
+get 44
+get 13
+get 28
+get 9
+put 24 6003
+put 13 9536
+get 25
+put 85 9393
+get 54
+put 8 718
+put 58 8042
+put 67 2532
+get 4
+get 11
+put 91 8325
+put 24 2523
+get 76
+get 128
+get 39
+put 139 4102
+get 53
+get 69
+put 148 6591
+get 92
+get 16
+get 90
+get 76
+get 119
+put 39 1099
+put 136 194
+get 40
+put 95 8419
+put 92 398
+get 84
+get 3
+get 47
+get 55
+get 134
+get 66
+put 70 2325
+put 36 3623
+get 29
+get 17
+get 71
+get 110
+get 119
+get 47
+put 87 5401
+put 100 7729
+get 23
+get 133
+get 126
+get 46
+put 9 2062
+get 62
+put 14 9082
+get 10
+get 2
+get 100
+get 18
+put 84 4448
+put 26 8699
+put 63 9220
+put 7 7153
+get 61
+get 45
+put 55 9267
+put 61 3751
+get 147
+put 125 3717
+get 106
+get 128
+get 98
+get 97
+get 77
+get 101
+get 68
+get 110
+get 101
+put 14 9963
+get 91
+put 21 9107
+get 112
+put 120 3014
+put 32 3924
+get 53
+get 75
+get 23
+put 10 8706
+put 149 4954
+get 11
+put 92 1628
+get 43
+put 106 7755
+get 129
+get 145
+get 90
+get 125
+get 57
+put 104 9309
+put 51 2424
+put 103 773
+get 104
+get 144
+put 112 6147
+put 19 6779
+put 20 6919
+put 126 9683
+get 11
+put 48 20
+put 125 8029
+get 88
+get 13
+put 10 5295
+get 139
+put 0 4931
+put 144 1520
+get 59
+put 132 4479
+get 64
+get 132
+get 84
+get 126
+put 146 6230
+get 23
+get 36
+get 94
+get 90
+put 39 5371
+get 41
+get 106
+get 36
+get 85
+put 90 7088
+get 40
+put 10 4063
+put 114 4899
+get 121
+get 4
+put 56 4878
+get 35
+put 0 1772
+get 119
+get 13
+get 122
+get 129
+get 63
+get 39
+get 95
+get 112
+get 42
+get 30
+put 11 6947
+put 150 3886
+get 28
+get 3
+get 53
+get 97
+get 98
+get 50
+put 117 441
+put 124 507
+put 67 3322
+get 69
+put 41 8908
+get 102
+put 112 9482
+get 104
+get 122
+put 15 4666
+put 98 2926
+get 7
+put 120 1073
+put 101 5841
+get 37
+get 100
+get 37
+get 141
+put 20 1645
+get 53
+put 24 6057
+get 93
+get 138
+put 38 3784
+put 5 5244
+put 141 339
+get 44
+get 97
+get 86
+put 80 6110
+put 120 1498
+put 23 5087
+put 94 1742
+get 77
+put 72 177
+put 113 3029
+put 2 9805
+get 43
+get 104
+put 51 445
+get 72
+put 27 7205
+get 22
+get 60
+put 92 486
+get 132
+get 114
+put 67 3972
+put 3 6624
+put 35 9538
+get 59
+get 94
+get 45
+get 141
+get 109
+get 102
+get 150
+put 101 8634
+get 78
+get 98
+get 90
+get 119
+put 105 8952
+get 10
+get 76
+get 90
+get 10
+get 107
+get 98
+get 3
+put 26 6956
+put 58 7471
+put 139 5996
+put 23 6539
+put 92 5338
+get 48
+put 28 4796
+get 96
+get 67
+get 88
+get 110
+get 97
+put 146 9872
+get 106
+get 124
+get 103
+put 95 4379
+put 30 4177
+get 133
+put 11 1785
+put 149 8678
+get 141
+put 77 2992
+get 134
+put 124 3426
+get 148
+put 83 3741
+put 13 4650
+get 5
+get 95
+put 145 9050
+put 21 1501
+get 147
+put 56 6052
+put 6 5628
+put 12 3232
+put 80 2086
+get 4
+get 140
+put 57 6131
+get 133
+get 92
+put 30 9811
+put 19 6645
+put 116 686
+get 129
+put 39 1356
+get 145
+get 84
+put 131 7259
+put 97 5895
+get 136
+put 55 6102
+put 110 1160
+get 29
+get 107
+get 30
+get 30
+get 124
+get 141
+get 84
+get 66
+get 138
+get 42
+get 1
+get 130
+put 104 4835
+get 46
+get 97
+get 135
+get 96
+put 48 5925
+put 46 2808
+get 54
+put 76 3839
+put 69 9827
+put 120 3543
+get 126
+get 127
+get 140
+get 119
+get 31
+put 93 8969
+put 126 2021
+get 38
+put 43 9072
+get 61
+get 97
+put 32 1846
+get 99
+get 125
+get 13
+put 37 2305
+get 112
+put 83 3831
+get 103
+get 60
+get 34
+put 133 1135
+get 117
+get 139
+put 42 3555
+put 97 2345
+put 7 8494
+get 55
+put 53 3358
+get 60
+put 33 2139
+put 35 5319
+put 76 2471
+get 101
+get 138
+put 41 8759
+get 106
+get 138
+get 150
+put 15 8073
+put 126 6406
+put 85 5168
+get 76
+put 7 4536
+put 42 4140
+get 39
+get 148
+put 145 9607
+get 135
+get 30
+get 45
+put 77 2727
+get 12
+get 75
+get 130
+get 6
+get 109
+get 36
+put 86 6838
+put 80 4278
+get 83
+get 66
+get 58
+get 123
+get 115
+put 0 7693
+put 44 1442
+get 101
+get 114
+get 54
+get 79
+get 139
+get 39
+get 150
+get 106
+get 38
+put 148 7391
+get 23
+get 11
+put 143 2943
+put 32 4614
+put 45 4463
+get 36
+put 57 8116
+get 113
+get 114
+get 38
+get 20
+get 99
+get 9
+get 5
+get 1
+get 31
+put 73 4683
+get 150
+get 101
+get 144
+get 89
+put 121 1493
+put 108 3217
+put 26 4143
+get 127
+put 100 765
+get 125
+get 110
+put 17 789
+get 136
+get 85
+get 129
+get 110
+get 150
+put 144 4391
+put 13 138
+get 0
+get 42
+put 109 9233
+get 121
+put 109 1919
+put 76 3769
+put 12 7032
+get 60
+put 41 3092
+get 30
+get 25
+put 27 2082
+get 133
+put 40 6903
+put 49 6331
+get 115
+put 38 5901
+get 4
+put 111 2175
+get 61
+get 21
+put 37 9355
+put 65 1497
+put 68 732
+get 58
+get 8
+get 134
+get 62
+put 37 3110
+get 114
+get 57
+get 46
+put 41 5659
+get 67
+put 90 6198
+put 4 6166
+put 25 4143
+get 32
+get 17
+get 116
+get 63
+get 48
+put 56 4161
+put 40 1216
+get 135
+get 34
+put 103 9024
+put 132 8440
+get 23
+get 132
+get 21
+get 89
+get 116
+put 35 8830
+get 10
+put 62 8528
+put 71 7618
+get 29
+put 13 9791
+put 65 1607
+get 118
+put 83 3550
+get 108
+get 53
+put 5 9632
+get 105
+get 46
+get 126
+put 78 7233
+put 83 9029
+put 54 5806
+get 0
+get 94
+put 48 9866
+get 0
+get 97
+get 120
+get 38
+get 126
+put 146 8822
+get 100
+get 51
+put 112 4396
+put 53 3049
+put 84 7026
+put 11 900
+get 4
+put 42 8294
+get 137
+put 9 1111
+put 54 6664
+get 135
+get 78
+get 6
+get 129
+get 114
+put 129 9075
+put 88 6489
+get 21
+get 23
+get 80
+put 129 3627
+put 120 9701
+get 80
+get 6
+put 146 9403
+get 70
+get 96
+get 123
+get 76
+get 125
+put 115 3703
+get 109
+get 100
+get 72
+get 22
+get 18
+get 19
+put 87 8218
+get 72
+put 0 2578
+get 62
+get 1
+get 46
+put 13 7137
+get 107
+put 105 9767
+put 48 8666
+get 127
+get 88
+get 75
+put 105 5142
+get 117
+put 105 8915
+get 22
+get 131
+put 96 6318
+put 130 5048
+put 112 8687
+get 9
+get 30
+put 72 965
+get 100
+get 26
+put 83 5507
+get 54
+get 147
+get 141
+put 78 9637
+get 115
+get 40
+get 80
+get 78
+get 122
+get 64
+get 144
+get 98
+get 8
+put 52 4793
+get 114
+get 82
+get 139
+get 99
+get 93
+get 17
+get 18
+get 3
+get 139
+get 19
+put 12 7591
+get 74
+put 111 6612
+put 82 8888
+get 83
+get 83
+get 126
+put 129 7278
+get 65
+put 2 3454
+get 91
+get 47
+get 1
+get 105
+put 21 5855
+get 82
+put 44 5989
+get 140
+get 21
+get 58
+get 86
+get 109
+get 0
+get 82
+get 89
+put 65 623
+get 122
+get 54
+get 116
+get 105
+get 100
+get 26
+get 11
+get 43
+get 102
+get 122
+get 49
+put 0 7261
+get 148
+get 114
+get 35
+put 97 1865
+get 0
+get 121
+get 2
+put 110 8051
+put 145 6986
+get 127
+get 46
+get 98
+get 79
+put 4 1126
+get 102
+get 101
+put 134 4975
+put 115 3097
+get 102
+get 71
+put 139 5715
+get 49
+put 68 3545
+get 1
+put 123 2066
+get 149
+put 93 7111
+put 2 6122
+put 34 3876
+put 76 1555
+get 108
+get 17
+get 57
+get 63
+get 78
+get 3
+get 30
+put 28 5549
+put 56 6875
+put 137 7264
+put 71 4964
+put 142 9411
+get 142
+get 141
+put 49 6413
+put 34 8214
+put 12 5155
+get 148
+get 113
+put 133 9934
+put 139 3921
+get 9
+get 70
+get 7
+put 7 5614
+put 62 7745
+get 43
+get 60
+get 42
+get 79
+put 146 2262
+get 49
+get 61
+get 118
+put 43 5399
+get 45
+get 106
+put 93 2671
+get 96
+get 111
+put 67 5776
+put 26 2634
+put 134 6676
+put 4 7843
+put 46 7491
+get 22
+get 33
+get 45
+get 0
+put 99 284
+get 79
+get 113
+get 91
+put 82 5348
+put 44 8594
+get 27
+get 34
+put 80 4901
+put 115 3431
+put 59 9490
+get 137
+put 39 4675
+get 147
+get 76
+get 20
+get 40
+put 103 4235
+put 66 2112
+get 46
+put 127 5863
+get 76
+get 86
+put 52 4556
+put 33 7440
+get 31
+get 99
+put 54 1546
+get 55
+put 120 9776
+get 95
+get 84
+get 20
+put 95 8767
+put 20 4603
+put 43 3645
+put 67 6905
+put 10 2474
+get 60
+get 95
+put 30 7639
+put 12 5208
+put 18 8176
+get 1
+get 126
+put 103 6217
+get 5
+get 136
+get 28
+get 41
+put 19 7572
+get 8
+get 3
+put 130 9938
+get 127
+put 17 5618
+get 106
+put 104 5926
+put 8 8504
+get 135
+get 16
+get 137
+get 125
+put 106 732
+put 44 2683
+put 29 9525
+put 44 1328
+get 126
+get 64
+get 131
+put 87 5409
+put 67 7245
+get 126
+get 20
+put 34 3300
+get 53
+put 2 3889
+put 129 555
+get 107
+put 94 1965
+get 39
+put 136 1719
+get 49
+put 129 6717
+put 98 9256
+get 5
+get 27
+put 100 5148
+put 9 3837
+get 130
+get 107
+put 50 9746
+get 13
+get 117
+put 8 5891
+put 114 9624
+get 47
+put 149 6252
+get 90
+get 114
+get 33
+put 121 2596
+get 130
+put 135 3991
+get 66
+put 106 3141
+put 24 1253
+put 122 1297
+get 83
+put 3 3782
+get 60
+put 61 8995
+get 27
+get 17
+get 106
+put 48 8804
+get 62
+put 116 5483
+put 58 3848
+put 58 6865
+put 90 1558
+get 23
+get 104
+put 66 7827
+put 100 2801
+get 22
+get 104
+put 67 2055
+get 51
+get 116
+get 23
+put 33 2604
+put 71 6584
+put 129 1126
+get 9
+get 149
+get 57
+put 30 8799
+put 131 5887
+get 91
+get 72
+put 119 2844
+get 2
+get 95
+put 112 8698
+put 57 1146
+get 106
+put 52 6508
+put 148 2444
+get 24
+put 106 3298
+get 59
+put 79 6344
+get 27
+put 14 9477
+put 3 6483
+get 15
+get 17
+get 149
+put 2 8624
+put 70 8479
+get 76
+get 136
+put 124 8175
+get 87
+put 8 943
+get 53
+get 2
+get 150
+get 122
+get 54
+put 130 3746
+get 134
+put 88 853
+put 107 7435
+put 86 713
+get 14
+get 100
+get 76
+put 84 400
+put 139 4242
+put 123 2001
+get 137
+put 114 6737
+put 65 554
+put 56 5754
+get 82
+get 52
+get 30
+put 40 4399
+get 58
+get 44
+get 11
+put 12 9006
+put 68 4176
+get 11
+put 87 9926
+get 124
+get 66
+get 22
+put 121 5460
+get 48
+get 63
+get 51
+get 16
+get 46
+get 49
+get 121
+put 50 6575
+put 16 8823
+get 48
+get 57
+get 14
+get 72
+get 91
+put 39 7720
+put 46 6116
+put 125 9087
+get 77
+get 17
+get 122
+get 74
+get 3
+get 67
+get 50
+put 6 8973
+put 30 2965
+put 2 8544
+put 82 3422
+put 144 1686
+get 76
+put 24 9625
+put 36 7384
+get 138
+put 33 7053
+get 101
+put 46 5786
+get 72
+put 50 9568
+get 130
+put 2 6265
+get 31
+put 91 765
+get 137
+put 101 7325
+put 41 3418
+get 132
+put 78 9175
+get 85
+put 14 4929
+get 61
+get 79
+get 29
+get 44
+get 137
+put 0 3407
+get 140
+get 95
+get 39
+get 15
+put 68 8009
+get 15
+get 124
+get 6
+get 117
+get 56
+get 67
+put 9 2333
+put 117 7873
+put 43 89
+put 38 5029
+get 52
+get 119
+put 105 5980
+get 55
+get 3
+get 132
+get 126
+get 81
+get 44
+put 50 5953
+get 4
+get 142
+get 52
+put 93 4676
+put 87 8654
+put 118 9823
+put 140 9337
+put 23 1303
+get 40
+put 93 9373
+get 146
+get 1
+get 106
+get 115
+get 53
+get 58
+put 51 2439
+put 28 8491
+put 18 8634
+put 142 9562
+get 141
+get 31
+put 110 1895
+get 29
+get 150
+get 15
+put 56 9355
+get 28
+put 39 1741
+get 112
+put 145 2733
+put 54 3211
+get 103
+get 76
+put 72 1602
+put 146 5673
+get 129
+put 51 1474
+get 78
+get 71
+put 138 8770
+get 16
+get 96
+put 107 8274
+put 60 8647
+get 96
+put 32 5307
+get 27
+put 23 120
+put 80 6883
+put 49 5960
+get 31
+get 57
+get 73
+get 8
+get 115
+put 73 1154
+get 20
+put 38 1059
+get 146
+put 75 2169
+get 83
+put 106 7528
+put 137 2551
+get 27
+put 45 2367
+put 66 8552
+put 15 8131
+put 35 3596
+put 104 5641
+put 69 6904
+get 116
+get 116
+get 143
+put 63 2307
+put 146 2401
+get 61
+get 64
+get 88
+put 91 5423
+put 93 4708
+get 148
+get 15
+put 67 9382
+get 96
+put 94 4294
+get 49
+get 40
+get 15
+get 94
+get 121
+get 56
+get 15
+get 81
+get 136
+get 74
+put 135 2364
+get 49
+get 52
+get 112
+put 42 3794
+get 42
+get 14
+put 77 7524
+put 125 4698
+put 46 9606
+get 74
+put 61 4553
+get 32
+put 112 1616
+put 101 6857
+get 101
+put 144 6379
+get 132
+get 135
+put 76 4061
+get 43
+get 39
+put 7 9669
+put 41 3101
+get 72
+get 64
+put 21 3388
+put 27 6570
+put 133 2982
+get 77
+put 140 3615
+put 53 5522
+put 13 5443
+get 8
+put 43 1211
+get 63
+put 39 6943
+get 43
+get 132
+get 108
+put 81 5408
+get 138
+get 68
+get 38
+get 46
+put 13 7550
+get 115
+get 121
+get 43
+put 103 2071
+put 135 6371
+get 97
+get 40
+put 97 1311
+get 9
+put 99 4840
+put 133 8133
+get 58
+put 69 6780
+get 119
+put 111 6078
+get 6
+get 80
+get 104
+get 82
+get 87
+put 115 5778
+put 78 4200
+put 122 2630
+get 59
+put 28 2949
+put 101 5611
+get 49
+get 108
+get 30
+get 24
+get 8
+get 109
+get 148
+get 70
+get 138
+get 37
+get 114
+get 126
+get 95
+get 116
+put 102 4510
+get 39
+put 41 765
+put 99 4061
+get 65
+get 130
+put 60 1330
+get 16
+get 136
+put 74 4231
+put 134 2289
+get 87
+get 101
+get 70
+put 77 2255
+get 112
+get 138
+put 95 7011
+put 39 1323
+get 78
+put 98 1368
+get 108
+put 116 5731
+get 41
+get 114
+get 27
+put 32 2061
+get 56
+put 110 9122
+get 1
+put 105 6106
+put 35 6047
+get 93
+put 150 3793
+put 142 4731
+get 105
+put 27 5400
+get 140
+put 47 9279
+get 146
+put 63 8244
+get 30
+get 86
+get 114
+get 52
+put 100 8789
+get 138
+get 28
+get 75
+get 122
+get 125
+get 2
+put 66 4374
+get 105
+get 31
+get 29
+put 28 288
+put 135 779
+put 127 6010
+get 22
+put 111 254
+put 48 5957
+get 116
+get 59
+put 63 5443
+get 74
+get 4
+get 1
+get 88
+get 85
+get 33
+get 137
+put 49 6137
+put 88 3993
+get 15
+get 117
+get 12
+get 93
+put 114 5837
+get 105
+put 118 5374
+put 139 8047
+put 95 135
+get 148
+get 59
+put 92 3587
+put 82 7805
+put 136 5801
+get 108
+put 120 4397
+get 29
+put 62 7601
+get 145
+get 130
+get 143
+get 4
+put 134 3124
+get 99
+get 118
+get 44
+get 77
+get 80
+get 33
+get 34
+put 85 4525
+put 65 4388
+put 26 3499
+get 97
+get 110
+get 140
+put 14 2853
+get 26
+get 143
+get 32
+get 39
+get 128
+get 125
+put 133 6570
+put 58 9772
+get 64
+get 29
+get 60
+get 94
+get 21
+get 27
+put 51 5188
+put 29 1936
+put 71 9756
+get 38
+put 132 9675
+put 14 7287
+get 74
+get 131
+put 113 684
+get 43
+put 69 2312
+get 120
+get 48
+get 138
+put 106 5888
+put 98 4339
+get 137
+get 144
+get 55
+put 34 7462
+get 108
+put 113 9503
+get 74
+put 120 8115
+get 110
+get 5
+put 97 6257
+get 133
+put 77 627
+get 55
+get 14
+get 22
+get 147
+get 12
+put 42 4358
+put 125 5628
+get 40
+get 143
+get 36
+get 137
+get 34
+put 4 8442
+put 113 7308
+get 108
+get 132
+put 121 9374
+put 51 7900
+put 144 6590
+put 148 9446
+get 1
+get 131
+get 85
+get 65
+get 72
+get 25
+get 96
+put 5 1283
+put 4 5862
+put 78 484
+put 7 2762
+put 129 3334
+get 150
+get 105
+get 144
+put 91 8222
+get 25
+get 90
+get 109
+get 49
+get 4
+get 124
+get 78
+put 75 387
+get 26
+put 62 7920
+get 28
+get 77
+get 62
+get 41
+get 143
+get 128
+get 106
+put 70 8771
+get 114
+put 10 4860
+put 145 51
+get 145
+get 70
+get 65
+put 24 1810
+put 144 1132
+get 28
+get 48
+get 122
+get 6
+get 103
+get 95
+get 1
+get 7
+put 50 2071
+get 17
+get 129
+put 147 4515
+put 76 1709
+get 93
+put 86 2581
+get 100
+get 68
+get 24
+get 57
+get 75
+put 23 2217
+get 45
+put 59 5991
+put 134 3722
+get 14
+put 77 1231
+get 122
+get 107
+put 142 3953
+put 113 5663
+get 25
+get 89
+get 115
+get 120
+get 16
+get 28
+put 88 6220
+put 42 4960
+put 70 2069
+get 91
+get 112
+put 87 9870
+get 109
+get 142
+put 79 2229
+put 51 9593
+get 98
+get 150
+get 104
+get 96
+get 0
+get 91
+get 17
+put 144 3675
+get 37
+put 137 8130
+get 121
+get 63
+get 82
+get 91
+put 114 6572
+get 23
+get 71
+get 32
+get 108
+put 34 7706
+get 37
+get 68
+get 22
+get 89
+get 52
+put 60 3390
+get 150
+get 3
+put 97 5335
+put 129 5158
+put 147 8544
+get 17
+put 10 2591
+get 85
+put 116 8858
+get 94
+get 95
+put 41 210
+get 30
+get 22
+get 53
+get 31
+get 96
+put 99 4542
+put 53 8763
+put 102 9093
+get 79
+get 131
+get 70
+put 74 1723
+get 121
+get 74
+get 89
+get 20
+put 7 8771
+get 64
+put 118 2974
+put 69 4220
+get 48
+get 92
+get 3
+put 39 1807
+get 115
+get 27
+get 27
+put 111 8433
+put 6 3996
+get 82
+get 141
+get 65
+get 5
+get 81
+put 54 8675
+get 105
+put 15 6968
+get 140
+put 36 4322
+put 16 1804
+put 85 15
+get 78
+put 60 6163
+get 18
+put 106 8596
+get 128
+get 42
+put 74 3837
+get 49
+get 114
+put 53 2195
+put 82 6553
+get 122
+put 24 4316
+put 69 8616
+get 105
+put 87 4262
+put 148 9323
+get 110
+put 137 1216
+get 41
+get 24
+get 13
+get 95
+put 130 7387
+put 68 6233
+get 1
+put 124 5721
+get 45
+get 43
+put 41 839
+put 144 3299
+put 27 8864
+put 10 8606
+put 100 7351
+get 109
+put 84 6733
+get 82
+put 23 1473
+put 98 5953
+get 87
+get 64
+get 129
+put 150 2804
+get 119
+get 7
+get 43
+put 35 9782
+get 85
+get 72
+get 78
+get 95
+get 101
+get 99
+get 30
+get 37
+get 2
+put 50 4837
+put 78 1237
+get 70
+get 78
+get 17
+get 85
+get 62
+get 54
+get 132
+put 137 2558
+put 145 1120
+put 75 6194
+get 119
+get 24
+get 96
+get 89
+get 41
+get 70
+get 97
+put 118 5625
+get 9
+put 97 1056
+put 6 9406
+get 71
+put 103 456
+put 131 5616
+put 65 7232
+put 39 9773
+get 68
+get 8
+get 27
+put 44 3728
+put 117 3527
+put 108 4395
+get 89
+put 14 8299
+get 112
+get 121
+put 47 3389
+put 60 4363
+get 45
+get 4
+get 139
+put 81 1791
+put 81 6763
+put 133 1158
+get 44
+put 132 5736
+put 68 1439
+get 17
+put 17 5689
+put 30 8053
+put 89 7421
+get 89
+put 144 308
+put 149 8253
+put 65 5650
+get 17
+get 99
+put 76 2211
+put 69 9013
+get 109
+put 2 1171
+get 144
+get 110
+get 123
+put 16 6208
+put 48 5640
+put 114 2867
+get 70
+get 137
+put 65 4606
+get 48
+get 142
+put 76 5866
+get 20
+get 34
+put 97 6011
+get 54
+put 39 7681
+get 68
+put 38 7835
+get 68
+get 22
+get 144
+get 104
+get 73
+put 148 2977
+get 115
+get 87
+get 77
+put 86 6077
+get 8
+put 44 2095
+get 103
+get 7
+get 113
+get 108
+get 57
+get 72
+put 10 268
+get 5
+get 25
+put 68 6517
+put 138 3206
+get 70
+get 126
+put 36 9136
+get 16
+put 15 2152
+put 2 7166
+put 146 2075
+get 11
+put 101 656
+get 52
+put 117 4430
+put 146 4017
+put 122 9467
+get 67
+get 122
+put 23 2309
+get 89
+put 124 4836
+put 56 6281
+put 104 2439
+put 73 9331
+get 99
+get 7
+get 62
+get 104
+get 130
+get 150
+get 91
+put 64 7889
+get 40
+put 50 7297
+put 143 3265
+get 50
+put 68 7680
+get 42
+get 59
+get 123
+get 62
+get 142
+get 11
+get 107
+get 99
+put 68 5350
+put 118 9924
+get 94
+put 19 1230
+put 109 9670
+get 125
+put 149 8003
+put 24 1162
+get 75
+get 131
+get 82
+put 21 6597
+get 88
+get 34
+get 87
+put 60 7448
+put 24 7085
+put 133 1760
+get 108
+get 62
+get 105
+get 83
+get 61
+get 142
+put 140 8442
+put 131 404
+get 9
+put 22 5869
+put 49 7413
+get 95
+get 0
+put 29 4
+get 60
+get 23
+get 145
+put 63 3342
+get 127
+get 38
+get 70
+get 95
+put 32 4593
+get 121
+get 71
+put 42 9088
+put 92 759
+get 57
+get 67
+get 34
+put 94 4346
+get 148
+get 117
+get 93
+put 6 4993
+get 116
+put 116 6769
+get 44
+put 34 6498
+get 86
+put 81 6367
+get 0
+put 128 8489
+put 68 5327
+put 144 2384
+put 129 5804
+put 40 1826
+put 53 7512
+put 25 3062
+get 125
+put 98 8533
+put 7 1684
+get 100
+get 53
+put 30 2995
+get 77
+get 84
+put 92 5087
+put 92 6311
+put 50 3755
+put 96 2047
+put 90 9831
+get 149
+get 142
+get 125
+put 74 1180
+put 115 7909
+put 67 9699
+put 80 7346
+get 23
+put 41 6827
+get 93
+put 43 4334
+put 95 6356
+get 21
+put 106 9024
+get 55
+get 26
+get 137
+get 114
+get 1
+put 56 2477
+get 16
+get 23
+put 14 1804
+put 7 7233
+get 135
+get 23
+get 98
+put 7 4210
+get 33
+get 14
+get 110
+put 106 5716
+put 74 4840
+get 20
+get 121
+get 53
+get 96
+get 26
+get 120
+get 117
+put 71 9448
+get 150
+get 53
+get 59
+get 46
+get 72
+put 126 3801
+put 86 8041
+get 131
+get 57
+put 144 1794
+put 1 6998
+get 55
+put 47 6832
+get 81
+put 92 194
+put 128 58
+put 92 3636
+get 40
+get 69
+put 51 5298
+put 0 4848
+put 110 4757
+get 30
+put 5 6910
+get 128
+get 122
+get 20
+put 107 5220
+put 33 8135
+get 47
+put 75 1097
+get 8
+get 34
+get 113
+get 71
+put 96 258
+put 92 6499
+put 96 9817
+get 63
+get 100
+put 49 1447
+get 5
+get 78
+put 99 726
+put 9 5265
+get 38
+get 61
+put 133 6141
+get 122
+get 119
+get 133
+put 95 2891
+get 114
+get 105
+get 70
+get 27
+get 94
+get 134
+get 108
+put 45 5250
+get 136
+get 129
+put 96 9049
+put 1 3562
+put 141 7401
+get 21
+get 114
+put 89 2430
+get 140
+get 133
+put 97 1573
+put 68 4529
+get 92
+get 71
+put 66 483
+get 26
+get 84
+put 19 6818
+get 98
+get 14
+get 17
+get 124
+get 39
+get 74
+get 37
+get 95
+get 134
+get 99
+put 70 91
+put 8 9004
+get 59
+put 16 6299
+get 6
+put 147 2646
+get 108
+put 37 3884
+get 18
+get 103
+put 118 4741
+get 90
+get 33
+get 110
+get 49
+get 128
+get 147
+get 27
+put 92 2881
+put 123 5662
+get 75
+get 63
+get 138
+get 66
+get 21
+get 142
+put 37 7166
+put 17 4437
+get 135
+get 103
+get 11
+get 61
+get 66
+get 20
+put 82 4610
+get 92
+put 89 1571
+get 0
+put 139 4388
+get 115
+put 116 7523
+put 51 7376
+get 1
+put 62 9268
+get 108
+get 138
+get 79
+get 55
+put 6 7303
+get 91
+get 93
+put 120 9769
+get 43
+get 146
+get 109
+get 98
+get 88
+get 107
+get 96
+put 149 8689
+put 7 5337
+get 0
+get 98
+get 20
+put 1 2518
+get 27
+put 86 6979
+put 55 4718
+get 108
+put 45 8307
+get 79
+get 67
+put 51 1063
+get 96
+get 58
+put 41 4909
+get 9
+get 127
+get 109
+put 56 154
+get 78
+get 121
+get 111
+get 37
+get 31
+get 105
+put 144 2256
+put 23 4159
+get 86
+get 120
+put 121 7585
+get 76
+put 54 7063
+put 116 1677
+put 74 4678
+put 130 2165
+put 0 6784
+get 86
+get 43
+get 129
+get 89
+get 80
+get 98
+get 150
+put 44 7914
+put 141 1138
+get 129
+get 63
+put 50 3383
+put 71 4257
+get 53
+get 24
+put 98 304
+get 66
+get 53
+get 111
+get 139
+get 89
+put 18 469
+get 4
+put 37 1690
+get 65
+put 147 7032
+put 139 8178
+put 111 5420
+get 58
+get 134
+get 65
+put 6 5299
+get 147
+put 109 3510
+get 141
+put 100 8390
+get 108
+get 77
+put 30 3012
+put 2 1777
+get 65
+put 34 7950
+put 105 4983
+get 39
+get 46
+put 149 626
+get 85
+put 93 1180
+put 26 1182
+get 138
+get 125
+put 65 5910
+get 83
+get 26
+put 32 2512
+put 25 7603
+get 122
+get 74
+put 129 1617
+get 19
+get 76
+get 108
+get 21
+put 142 829
+put 134 3592
+get 32
+put 16 8212
+get 46
+put 128 4504
+put 47 4076
+get 140
+put 32 2717
+put 75 1777
+get 46
+get 23
+get 97
+get 49
+get 127
+put 50 8790
+get 40
+get 97
+put 103 8355
+put 26 1724
+put 66 3480
+get 30
+put 86 7706
+put 59 1868
+get 78
+get 26
+get 114
+get 137
+put 109 8092
+put 54 9096
+put 41 1284
+get 135
+put 52 2277
+get 27
+put 89 2507
+put 73 3105
+get 87
+get 125
+put 26 6082
+get 95
+get 21
+put 87 1569
+get 10
+put 36 8796
+put 17 9821
+get 34
+put 3 1513
+get 148
+get 132
+get 35
+get 68
+put 127 899
+put 83 6301
+get 62
+put 139 8713
+get 73
+put 0 2233
+get 147
+get 103
+get 95
+get 128
+get 94
+get 17
+get 3
+put 80 20
+get 72
+get 89
+get 30
+put 52 6232
+get 150
+put 10 2962
+get 36
+get 51
+put 134 9273
+get 126
+get 118
+get 122
+get 103
+get 130
+get 138
+get 76
+get 140
+get 124
+get 4
+put 147 8759
+get 87
+get 133
+get 28
+get 11
+get 107
+put 83 3182
+put 80 2630
+put 81 6481
+get 0
+get 68
+put 42 2517
+get 139
+put 16 7115
+put 111 4420
+get 79
+get 6
+put 65 6353
+put 16 7572
+put 131 4874
+put 27 2936
+put 19 5929
+get 68
+get 16
+get 0
+get 102
+get 132
+put 9 4803
+get 18
+put 118 7457
+put 11 3359
+put 111 3873
+get 122
+put 21 9754
+put 14 360
+put 42 9577
+get 105
+get 42
+get 82
+get 101
+get 4
+get 14
+put 81 704
+get 84
+get 98
+get 68
+get 52
+get 87
+get 79
+put 17 2355
+put 70 318
+put 12 8378
+get 21
+get 23
+get 96
+put 89 5496
+get 3
+get 82
+get 9
+get 20
+get 16
+put 101 4780
+get 113
+put 72 7992
+put 68 5022
+put 11 7933
+get 29
+put 130 6044
+get 16
+get 32
+get 114
+put 120 6887
+put 18 1362
+get 150
+put 150 6246
+put 133 2138
+put 88 1446
+get 4
+get 144
+put 108 8426
+get 65
+put 115 5648
+put 2 8969
+put 71 2556
+get 11
+get 43
+get 82
+get 88
+get 15
+get 146
+get 136
+put 122 6405
+put 113 6149
+put 48 7648
+get 136
+get 124
+get 127
+put 23 6839
+put 119 2770
+put 68 4859
+put 108 9959
+put 19 6194
+get 98
+put 148 3619
+put 103 2806
+get 82
+put 121 5922
+put 104 9282
+get 54
+put 128 1061
+get 48
+get 82
+put 29 782
+put 66 126
+put 133 8891
+get 112
+get 122
+get 102
+put 113 5571
+get 28
+get 75
+put 149 7763
+get 108
+put 109 5796
+put 76 694
+get 99
+put 1 9666
+get 134
+get 84
+get 147
+put 63 5728
+get 44
+put 125 2813
+get 71
+get 50
+get 143
+put 119 9092
+get 57
+get 53
+get 144
+put 73 945
+get 145
+put 71 7575
+put 14 7536
+put 2 1468
+get 73
+get 17
+put 77 6817
+get 112
+get 107
+get 5
+get 5
+put 71 667
+put 104 6522
+get 2
+put 119 7556
+get 109
+get 42
+put 116 2220
+put 141 4641
+put 118 5549
+get 124
+put 5 1798
+put 136 2485
+put 91 3233
+get 16
+get 116
+put 86 4181
+get 65
+get 131
+get 121
+put 105 8185
+get 110
+get 86
+get 36
+get 105
+get 126
+get 125
+get 38
+get 114
+get 45
+put 147 9540
+put 21 7793
+get 3
+put 143 2841
+get 12
+get 37
+get 6
+put 70 7022
+get 136
+put 22 4180
+get 32
+put 121 7905
+get 119
+get 123
+put 138 8209
+put 99 677
+get 15
+put 76 1819
+get 149
+put 103 7618
+get 104
+put 139 5069
+get 81
+get 106
+get 67
+get 131
+get 79
+get 135
+get 8
+get 17
+put 91 2932
+get 39
+put 111 8320
+put 135 2527
+get 88
+put 44 6102
+get 82
+get 81
+get 12
+put 117 8385
+get 98
+put 35 8142
+put 40 6079
+put 86 1075
+put 149 8729
+get 93
+put 128 9598
+get 68
+get 125
+get 46
+put 115 2726
+put 39 9125
+get 87
+get 78
+get 24
+get 129
+get 133
+put 40 2801
+put 105 8573
+put 19 346
+put 39 4085
+get 90
+put 15 5286
+get 30
+put 112 4148
+put 147 2923
+put 136 6400
+put 72 5436
+put 125 2912
+put 60 3563
+get 139
+get 28
+put 146 8740
+get 128
+get 65
+get 85
+get 9
+get 149
+get 68
+get 14
+put 85 7790
+get 2
+put 45 1556
+put 128 1710
+get 134
+get 118
+get 97
+put 81 1899
+put 92 5551
+put 38 1708
+get 138
+get 112
+put 27 7698
+put 140 4720
+get 11
+get 26
+get 27
+put 147 1013
+get 131
+put 100 7132
+put 88 7079
+get 3
+get 123
+get 128
+get 147
+get 107
+put 142 7027
+put 112 3889
+get 1
+put 37 2054
+get 50
+get 74
+get 84
+put 97 9848
+get 66
+get 6
+put 92 5113
+get 78
+get 133
+get 25
+put 89 2485
+put 134 9134
+get 141
+put 78 5677
+get 136
+get 147
+get 111
+put 53 6839
+put 123 5143
+put 28 287
+get 8
+get 119
+put 143 3989
+get 15
+get 37
+get 0
+get 132
+get 63
+put 139 4820
+get 91
+get 25
+get 87
+put 0 8558
+get 64
+get 68
+get 117
+put 69 2955
+get 122
+get 96
+get 124
+put 93 7733
+get 26
+put 139 8876
+put 65 8954
+put 48 4247
+get 56
+get 100
+get 125
+get 98
+get 85
+get 119
+put 130 6868
+get 61
+get 106
+get 76
+get 64
+get 40
+get 130
+get 61
+get 93
+put 89 1271
+get 84
+get 9
+put 111 6609
+put 148 2704
+get 27
+put 10 4598
+put 26 4934
+put 124 4837
+get 128
+get 138
+put 58 1942
+get 89
+put 92 4788
+put 139 9066
+get 72
+get 29
+put 21 3223
+get 36
+get 109
+put 7 1951
+get 6
+get 38
+get 135
+put 39 523
+get 82
+get 41
+get 60
+get 120
+put 138 5957
+put 45 6800
+get 13
+get 39
+put 138 3076
+get 50
+get 104
+get 104
+put 15 7740
+put 76 412
+get 83
+get 133
+get 29
+get 41
+put 121 1158
+get 15
+get 81
+get 51
+put 146 9278
+put 37 2163
+get 21
+get 70
+get 76
+get 121
+get 51
+put 126 5608
+get 76
+get 58
+put 43 1289
+put 67 2334
+put 115 6755
+put 120 8400
+put 59 9083
+get 97
+put 100 819
+get 91
+put 40 6653
+get 134
+get 62
+get 104
+get 93
+put 34 501
+get 83
+get 47
+get 27
+get 24
+put 126 8993
+put 21 6800
+put 95 5139
+get 35
+put 87 1593
+put 42 645
+get 79
+put 145 4903
+get 41
+get 56
+get 111
+get 135
+get 121
+put 64 4984
+put 58 4292
+get 95
+get 41
+get 41
+get 8
+get 15
+get 54
+get 34
+get 83
+put 118 3255
+put 51 5483
+get 148
+get 135
+get 120
+get 93
+get 119
+put 71 29
+get 146
+get 28
+get 141
+get 129
+get 7
+get 1
+get 24
+put 142 7535
+get 6
+get 114
+get 23
+get 135
+get 44
+get 9
+get 42
+get 35
+put 49 464
+get 83
+get 132
+get 129
+get 105
+get 145
+get 86
+get 111
+get 68
+get 150
+put 10 1773
+get 123
+get 132
+get 82
+get 45
+get 37
+get 43
+put 128 6067
+get 119
+get 149
+get 115
+get 95
+get 5
+put 27 9298
+put 71 5296
+put 66 5991
+get 65
+get 27
+get 83
+get 15
+put 106 4135
+get 67
+put 3 9335
+get 88
+put 36 8121
+put 46 8248
+get 139
+get 132
+get 106
+get 138
+get 108
+get 13
+put 109 5148
+get 150
+get 50
+put 45 833
+get 144
+put 77 6892
+put 68 6270
+put 119 7933
+put 149 7812
+put 129 2025
+put 81 6332
+get 144
+get 128
+put 95 3538
+get 144
+get 84
+put 31 768
+get 98
+get 84
+put 84 9011
+put 2 7399
+put 135 6762
+get 50
+get 133
+put 76 6568
+get 0
+put 54 7237
+put 87 8284
+get 143
+get 107
+get 10
+get 56
+put 31 7744
+get 44
+put 70 5503
+put 128 4125
+get 54
+get 32
+put 32 5702
+get 75
+put 108 244
+get 146
+get 93
+get 28
+put 148 4063
+get 116
+put 84 7883
+get 18
+get 99
+get 74
+get 124
+put 138 679
+put 27 7643
+get 90
+get 31
+get 5
+get 76
+put 5 3080
+get 24
+get 133
+get 53
+put 63 1443
+get 78
+put 26 3673
+put 149 2212
+put 62 7019
+put 136 7199
+get 44
+get 122
+get 57
+put 146 8619
+put 8 1846
+get 104
+get 137
+get 36
+get 123
+get 20
+put 88 7918
+get 48
+put 13 3849
+put 111 6551
+get 1
+put 42 2662
+get 140
+put 9 7869
+get 135
+get 106
+get 40
+put 57 4384
+get 77
+put 122 1235
+get 73
+put 111 9072
+get 99
+put 7 3077
+get 138
+get 110
+get 3
+get 4
+put 124 9813
+get 91
+get 75
+put 110 7446
+put 76 2593
+put 44 6700
+put 120 5575
+get 67
+put 72 1612
+get 58
+get 41
+get 62
+get 79
+get 54
+put 80 8880
+put 2 2799
+get 117
+get 29
+get 77
+put 45 5906
+put 144 6812
+get 106
+get 57
+put 114 5665
+get 29
+get 21
+get 29
+get 103
+put 11 2617
+get 43
+put 132 6444
+get 72
+put 110 7785
+put 131 7391
+put 97 9428
+get 16
+put 103 9477
+get 17
+put 141 632
+put 135 8622
+get 45
+put 144 4381
+get 39
+get 68
+put 26 3832
+put 85 2961
+get 71
+get 90
+put 59 6118
+put 68 9831
+put 8 7666
+get 89
+get 107
+get 130
+get 52
+get 91
+get 110
+put 91 185
+get 47
+put 80 9695
+get 85
+get 52
+get 110
+get 82
+put 60 7643
+put 59 553
+put 85 7004
+put 12 7721
+get 117
+get 130
+put 94 1080
+get 93
+get 135
+get 38
+get 33
+put 107 9081
+get 121
+put 16 5508
+put 117 3591
+get 145
+get 19
+put 140 9343
+get 78
+get 123
+put 3 5338
+get 124
+get 123
+put 54 9922
+get 99
+get 144
+get 144
+get 116
+get 98
+get 135
+get 134
+put 41 5899
+put 143 3607
+get 80
+get 71
+put 60 9508
+get 120
+get 8
+get 147
+put 46 9584
+put 86 8986
+put 46 7392
+get 51
+get 99
+get 2
+put 107 5679
+put 128 8221
+get 20
+get 2
+get 145
+get 91
+put 30 3679
+put 87 102
+get 56
+get 128
+put 113 9857
+put 115 5793
+put 147 1897
+put 75 9411
+get 41
+get 105
+get 107
+get 8
+put 146 2656
+put 69 9814
+get 38
+get 44
+put 133 5996
+get 128
+put 27 4105
+put 128 5626
+put 121 3627
+get 120
+get 94
+put 51 1176
+get 142
+get 14
+get 73
+get 131
+put 5 9090
+put 99 2455
+get 120
+get 40
+get 31
+get 83
+put 22 1683
+put 109 4217
+get 100
+put 35 8142
+put 131 1983
+get 112
+put 128 8000
+put 84 153
+get 29
+put 79 6606
+get 83
+get 134
+put 114 9286
+get 83
+put 51 6505
+get 58
+put 144 6870
+get 135
+get 113
+get 13
+put 116 505
+get 76
+get 81
+get 41
+get 66
+put 40 1444
+get 120
+get 55
+put 100 3064
+get 132
+get 41
+put 116 1684
+get 139
+put 139 4202
+put 123 3818
+put 128 9396
+put 79 8506
+get 64
+get 62
+get 108
+put 101 2859
+put 53 4225
+get 94
+get 115
+put 98 7911
+put 68 2057
+get 2
+put 38 2206
+get 96
+get 62
+put 22 1950
+get 35
+get 106
+put 82 9152
+put 74 3368
+get 31
+put 84 2745
+get 13
+put 111 6386
+put 0 5088
+put 7 340
+get 71
+get 125
+get 11
+put 57 2015
+get 42
+get 116
+get 95
+get 75
+get 136
+get 106
+get 94
+put 6 1680
+get 117
+put 148 9221
+get 142
+put 14 2169
+get 3
+put 14 7598
+get 57
+get 22
+get 58
+put 150 1132
+put 51 3314
+get 113
+put 69 2019
+get 40
+get 137
+put 32 9347
+get 117
+put 80 5041
+get 119
+put 150 7628
+get 80
+put 11 5041
+put 39 3256
+put 55 1363
+get 36
+put 11 6679
+get 40
+get 105
+put 150 6403
+get 121
+put 39 8173
+get 118
+get 2
+get 135
+get 16
+get 22
+get 36
+get 127
+put 28 1038
+put 105 6816
+put 10 6105
+put 5 9128
+get 115
+get 19
+get 61
+put 59 9504
+put 90 5228
+get 1
+get 42
+put 1 8858
+get 41
+get 35
+get 135
+get 9
+get 98
+get 142
+put 101 4391
+put 102 7272
+get 112
+get 49
+put 24 1643
+get 49
+get 30
+get 87
+get 82
+get 114
+get 103
+get 65
+get 81
+put 147 7228
+get 31
+get 13
+put 86 2855
+get 4
+get 140
+get 54
+get 120
+put 145 5776
+get 141
+get 71
+put 39 4576
+get 80
+get 58
+get 42
+get 11
+get 100
+get 41
+put 133 7841
+get 66
+get 25
+put 56 7982
+put 38 5764
+get 128
+put 99 4366
+get 99
+put 54 4056
+get 84
+put 76 3477
+put 134 2587
+put 91 3833
+get 57
+get 131
+get 146
+put 64 7719
+get 41
+put 126 5280
+put 133 7617
+get 16
+get 116
+get 74
+get 119
+get 77
+put 2 7313
+get 46
+get 100
+put 124 2610
+put 61 2733
+get 71
+get 50
+get 58
+get 73
+get 54
+put 126 3807
+put 32 9283
+put 51 6926
+get 13
+get 15
+get 139
+put 29 7112
+get 89
+put 128 9669
+put 75 4515
+put 19 6072
+put 145 3153
+put 60 9432
+put 126 5280
+put 13 223
+get 146
+put 131 8645
+get 133
+get 23
+put 16 435
+get 134
+get 126
+get 116
+put 132 3368
+get 107
+get 41
+put 96 3524
+put 62 3795
+get 103
+put 93 2172
+put 74 6946
+get 117
+put 51 7956
+get 46
+put 36 9766
+get 56
+get 98
+put 81 4917
+put 113 2921
+put 83 3199
+put 42 6364
+put 73 5939
+get 37
+get 76
+get 125
+put 91 3303
+get 145
+get 39
+get 62
+get 123
+get 39
+put 61 3351
+get 103
+get 100
+get 131
+put 64 9135
+get 119
+get 38
+put 23 9135
+put 8 7225
+put 47 3897
+put 143 1389
+get 89
+get 131
+get 18
+get 55
+put 23 8737
+put 80 2068
+put 66 4506
+get 13
+put 127 3620
+get 110
+put 70 7049
+get 84
+put 83 9538
+put 29 6596
+get 1
+get 118
+get 5
+get 69
+get 138
+put 50 3512
+get 146
+put 68 2282
+get 78
+get 102
+put 126 4225
+get 123
+put 66 1156
+get 20
+put 125 4701
+get 37
+get 89
+put 88 7320
+get 73
+get 90
+get 96
+get 57
+get 66
+put 132 578
+get 95
+get 128
+put 127 1642
+put 105 4307
+get 146
+get 45
+put 9 4319
+put 92 3503
+get 136
+put 80 4187
+get 127
+get 147
+get 34
+get 61
+get 83
+get 105
+get 98
+put 66 1857
+get 129
+get 45
+put 145 5984
+get 52
+get 126
+get 112
+put 79 3976
+get 145
+put 38 9138
+get 100
+get 114
+get 120
+put 47 665
+put 121 4924
+get 24
+get 144
+put 17 8778
+get 103
+put 54 7255
+get 9
+get 33
+get 78
+get 97
+get 76
+get 83
+get 138
+get 8
+get 111
+get 68
+get 125
+get 66
+put 33 4825
+get 52
+get 23
+get 111
+get 22
+get 107
+put 107 1707
+put 64 8481
+get 41
+put 46 6668
+get 99
+put 17 9933
+get 80
+put 38 5309
+put 137 745
+get 39
+get 49
+put 69 5836
+put 114 9100
+get 36
+get 74
+put 126 6197
+put 31 9507
+get 123
+get 134
+put 116 413
+put 60 3013
+get 78
+put 18 2639
+get 78
+get 7
+get 130
+get 77
+put 51 2501
+put 127 8360
+get 10
+get 142
+get 150
+get 126
+get 46
+put 134 8252
+get 126
+get 44
+get 44
+get 37
+get 56
+get 97
+get 134
+get 146
+put 149 4840
+put 138 416
+get 21
+get 90
+get 28
+put 119 1563
+put 58 8789
+put 20 2250
+get 139
+get 12
+get 27
+get 134
+get 87
+get 5
+get 116
+put 145 7341
+get 125
+put 130 1021
+get 98
+put 102 6595
+put 95 3393
+get 114
+get 79
+put 15 6300
+get 59
+get 104
+put 100 2123
+put 33 3858
+get 102
+put 36 8826
+get 131
+put 19 9754
+get 145
+get 140
+put 41 285
+get 150
+get 131
+put 104 4678
+get 13
+get 69
+get 76
+put 55 748
+put 91 9641
+get 84
+get 33
+get 73
+get 141
+get 94
+put 79 3805
+put 18 8577
+put 39 7632
+get 66
+put 13 1617
+put 61 988
+get 4
+get 129
+get 33
+put 35 9780
+get 42
+get 58
+put 44 6657
+put 49 4831
+put 23 1852
+get 3
+get 135
+get 3
+put 142 3820
+get 63
+put 45 7163
+put 93 7108
+get 98
+get 87
+get 45
+get 68
+get 113
+get 58
+get 34
+get 110
+get 31
+put 14 5337
+put 47 2389
+put 49 624
+get 74
+put 32 9557
+put 11 3861
+get 8
+get 69
+put 66 4659
+get 29
+get 8
+get 41
+get 70
+get 133
+get 116
+get 1
+get 66
+put 83 4040
+put 24 9266
+get 97
+get 20
+put 90 3133
+get 139
+put 84 4956
+get 49
+get 96
+put 99 9141
+put 37 1249
+get 124
+get 147
+get 38
+get 66
+put 85 3680
+put 42 9716
+get 125
+put 97 3906
+put 113 2478
+put 0 5934
+put 56 4873
+get 126
+get 44
+get 150
+get 114
+get 106
+put 47 5223
+get 5
+get 25
+put 65 9078
+get 146
+put 147 1705
+put 35 4855
+put 89 2562
+put 138 742
+put 1 8025
+put 16 8767
+get 67
+get 131
+put 107 3126
+put 78 8604
+get 78
+put 57 7110
+get 80
+put 120 3474
+get 35
+get 101
+put 48 6086
+put 76 2344
+get 76
+get 49
+get 102
+get 71
+put 30 922
+get 95
+get 109
+get 105
+get 17
+get 81
+get 44
+put 90 6980
+put 78 5310
+get 146
+put 120 9311
+put 116 2246
+get 138
+get 54
+get 107
+put 46 7631
+put 4 2506
+get 70
+get 41
+get 138
+put 47 8963
+put 88 2845
+get 119
+get 62
+get 104
+get 28
+get 136
+get 24
+get 79
+put 114 2614
+put 96 7185
+get 2
+get 55
+get 7
+put 50 3278
+get 126
+get 71
+get 113
+put 60 4690
+get 81
+put 135 6028
+put 7 4794
+put 131 8345
+get 97
+put 77 6791
+get 77
+get 1
+put 46 7242
+get 56
+get 12
+put 142 6669
+get 0
+get 31
+get 92
+get 65
+get 138
+get 124
+get 38
+get 62
+get 127
+get 42
+get 89
+put 90 1333
+get 70
+put 50 1168
+get 38
+get 69
+get 21
+get 48
+get 23
+put 5 1196
+get 143
+get 120
+get 13
+put 35 9061
+get 40
+get 109
+get 84
+get 90
+put 113 2859
+get 66
+put 88 6867
+get 45
+put 144 9993
+get 132
+put 92 3341
+get 56
+put 72 829
+put 112 824
+put 102 3102
+get 113
+get 149
+get 146
+put 145 3253
+get 5
+get 10
+get 15
+put 53 4043
+get 90
+put 78 9879
+put 148 3241
+get 9
+put 138 4401
+get 1
+put 99 7619
+put 143 1056
+get 102
+get 104
+put 102 4463
+get 14
+put 66 3118
+get 29
+get 90
+get 25
+get 74
+put 79 8165
+put 137 7713
+get 39
+put 107 6513
+get 51
+put 141 3992
+get 101
+put 48 8672
+put 43 7554
+get 20
+put 13 4366
+get 1
+put 4 3282
+get 96
+get 88
+get 95
+get 117
+get 25
+put 53 9854
+get 134
+put 84 6837
+get 131
+put 61 1858
+get 74
+put 150 5653
+put 10 6471
+put 44 972
+get 65
+put 15 3577
+get 38
+put 71 860
+get 34
+get 144
+put 118 5121
+put 7 3169
+get 132
+get 22
+get 94
+get 48
+get 114
+get 85
+get 48
+get 81
+get 5
+get 41
+put 104 6860
+put 77 1874
+put 90 2499
+put 131 4364
+put 139 6887
+put 100 3176
+put 8 1567
+get 48
+get 15
+get 8
+put 140 3344
+put 81 108
+put 27 4370
+get 123
+put 105 3293
+put 11 7963
+get 82
+put 39 6882
+put 29 4320
+put 118 9864
+get 107
+put 105 247
+get 110
+get 123
+get 0
+put 44 2304
+get 88
+get 117
+get 85
+put 79 7323
+get 34
+get 142
+put 85 7746
+get 137
+put 94 491
+get 71
+put 140 3146
+get 59
+put 61 4471
+get 58
+get 108
+get 60
+get 132
+put 136 2081
+get 142
+get 80
+get 127
+get 114
+get 105
+get 60
+get 134
+put 72 1873
+put 67 7078
+put 127 7375
+put 10 5062
+get 56
+put 140 4234
+get 29
+get 78
+get 144
+get 0
+get 77
+get 14
+put 111 8564
+get 113
+get 91
+get 138
+get 111
+get 46
+put 37 9404
+put 56 6291
+get 144
+put 30 222
+put 94 6000
+get 56
+put 116 3824
+get 144
+get 33
+get 58
+get 30
+get 83
+put 98 6906
+get 51
+get 81
+put 22 8176
+get 117
+put 15 5826
+get 0
+get 62
+put 37 9656
+put 80 8834
+put 36 9296
+get 150
+put 115 7447
+get 146
+get 56
+get 102
+put 37 4571
+put 135 2978
+put 45 3685
+get 34
+put 59 1613
+get 40
+put 58 6358
+get 26
+put 48 5498
+put 51 4614
+get 99
+get 70
+get 22
+put 86 2968
+put 141 6459
+put 17 5762
+get 8
+get 68
+get 92
+get 23
+get 94
+get 79
+put 106 7285
+get 116
+get 18
+get 85
+put 130 9809
+put 47 5229
+put 94 3313
+get 84
+get 111
+put 139 5397
+get 85
+put 17 4878
+get 135
+get 67
+get 129
+put 46 6644
+put 126 1071
+get 95
+put 58 7415
+put 52 1584
+put 14 6369
+get 84
+get 22
+put 72 9053
+put 64 9935
+get 75
+get 55
+put 107 2925
+get 85
+put 39 8819
+get 131
+put 119 642
+put 79 4665
+get 24
+put 136 944
+get 121
+put 140 7921
+put 36 9905
+get 113
+get 26
+get 2
+put 16 384
+put 22 187
+get 79
+put 54 5041
+get 128
+get 143
+put 108 5187
+get 6
+get 49
+put 112 700
+get 71
+get 79
+get 59
+put 129 931
+get 134
+put 101 9987
+get 119
+get 49
+get 50
+get 128
+get 28
+get 3
+put 129 980
+get 81
+get 9
+get 28
+get 108
+put 143 1495
+put 76 6840
+put 116 2275
+put 149 7521
+get 120
+get 134
+get 106
+put 115 9532
+get 93
+get 123
+get 130
+put 26 4184
+get 8
+get 150
+get 135
+get 80
+get 78
+get 95
+get 20
+get 73
+get 129
+put 136 593
+get 110
+get 7
+get 109
+put 66 3855
+put 121 1948
+get 114
+get 116
+put 17 9723
+put 2 3755
+get 128
+get 1
+get 84
+get 97
+put 24 8191
+put 70 9638
+get 36
+get 29
+put 35 4257
+get 21
+get 42
+put 6 8549
+get 63
+put 67 9999
+put 108 2560
+put 16 9785
+get 38
+put 117 2396
+get 10
+get 31
+get 144
+get 38
+get 18
+put 20 3060
+get 23
+get 149
+get 3
+get 15
+get 30
+get 49
+get 109
+put 45 1213
+put 20 7189
+put 64 1425
+put 34 2559
+get 37
+put 19 1433
+get 67
+get 46
+put 126 3032
+get 130
+get 15
+get 91
+get 143
+get 20
+put 63 3738
+get 27
+get 36
+get 90
+get 108
+get 76
+get 111
+get 76
+get 109
+get 138
+get 35
+put 7 8988
+get 68
+put 28 8847
+get 118
+get 28
+get 37
+get 28
+get 37
+put 140 8184
+get 50
+get 121
+get 131
+get 149
+get 88
+get 61
+put 84 9180
+put 145 6788
+put 82 6825
+get 33
+put 2 8111
+get 0
+get 11
+get 29
+get 115
+get 126
+put 62 644
+put 59 5913
+put 13 6493
+put 56 1344
+put 63 5566
+get 7
+get 141
+put 42 8872
+get 27
+get 52
+get 33
+get 129
+get 102
+get 47
+get 18
+get 97
+put 56 2166
+put 65 8630
+get 36
+put 39 2852
+put 65 8696
+get 68
+put 102 836
+get 138
+get 123
+put 84 3976
+put 132 2274
+put 74 805
+put 52 7798
+put 107 3901
+get 64
+get 122
+get 100
+get 148
+get 139
+put 2 9076
+get 33
+get 26
+get 66
+put 16 1851
+put 33 9868
+put 128 3700
+put 36 955
+put 88 501
+put 36 1745
+get 69
+put 127 7720
+get 11
+put 149 4052
+get 80
+get 114
+put 98 2842
+put 91 2619
+get 54
+put 146 408
+get 44
+get 56
+get 61
+get 54
+get 37
+get 62
+get 28
+put 125 3560
+get 95
+put 122 6441
+put 107 5694
+get 104
+get 15
+put 90 2958
+get 22
+get 150
+get 70
+put 76 8725
+put 136 1548
+put 97 9257
+put 72 3612
+get 111
+get 115
+get 130
+put 114 2658
+put 96 4152
+put 43 323
+get 41
+put 102 9995
+get 40
+get 77
+get 130
+get 19
+get 6
+put 5 6339
+put 45 8525
+get 79
+get 50
+get 90
+get 34
+get 146
+get 146
+get 82
+get 78
+get 74
+get 19
+get 27
+get 110
+get 72
+get 40
+get 27
+put 36 5421
+get 33
+put 36 5167
+get 97
+put 32 7675
+get 111
+put 0 8360
+put 5 1183
+get 112
+get 60
+get 87
+put 36 1855
+get 134
+get 26
+get 91
+put 105 4839
+put 48 3490
+put 122 890
+get 117
+get 115
+get 79
+put 16 2207
+put 1 9671
+put 67 4035
+put 81 5673
+get 53
+put 91 8574
+get 75
+put 43 4645
+put 111 6589
+put 78 1583
+put 58 219
+get 129
+get 10
+put 127 4217
+put 91 289
+get 16
+put 149 1630
+put 50 9810
+put 6 2224
+put 58 8022
+get 150
+get 103
+get 104
+get 132
+get 119
+put 45 4837
+put 111 7733
+put 131 3917
+put 64 9371
+get 132
+get 94
+put 38 994
+get 36
+get 72
+get 26
+put 79 1630
+put 59 4286
+get 25
+get 92
+put 4 1828
+get 1
+put 139 8002
+put 4 4919
+get 104
+get 68
+get 5
+put 64 2913
+put 110 698
+get 47
+put 113 8828
+get 80
+put 90 3707
+get 70
+get 115
+get 63
+put 63 9628
+put 92 9395
+put 63 6095
+get 35
+get 72
+get 7
+put 19 1892
+get 95
+get 114
+get 129
+get 120
+put 120 5831
+put 9 288
+put 92 304
+get 133
+put 48 6585
+get 12
+get 60
+get 93
+put 72 7835
+get 73
+get 32
+put 4 7870
+get 11
+put 111 5770
+put 52 7862
+get 5
+get 89
+put 149 1050
+get 139
+get 28
+get 116
+get 8
+get 58
+get 74
+get 144
+get 22
+get 124
+get 80
+put 37 5143
+get 24
+put 119 1297
+get 108
+get 132
+get 31
+get 111
+get 58
+put 93 699
+put 94 6294
+get 103
+put 13 4617
+get 107
+put 57 9815
+put 22 1022
+get 137
+put 52 5114
+get 4
+put 108 8593
+get 42
+get 118
+get 54
+put 150 5050
+get 28
+get 84
+put 44 929
+get 95
+put 133 367
+get 100
+get 72
+get 90
+get 53
+put 6 454
+get 105
+get 51
+put 88 5107
+get 40
+put 18 9923
+put 110 5790
+get 93
+get 75
+put 23 7091
+get 139
+get 8
+get 67
+put 40 6797
+get 16
+put 101 8017
+put 116 7234
+get 119
+put 42 2368
+put 133 6863
+put 13 1775
+put 11 2338
+put 49 5369
+put 14 289
+put 11 7573
+get 9
+put 20 2191
+put 39 7909
+get 100
+get 26
+get 87
+get 54
+get 40
+put 149 6612
+get 100
+get 28
+put 10 6533
+get 17
+get 46
+get 1
+put 81 4456
+get 99
+put 0 9289
+get 39
+get 12
+get 1
+get 51
+put 146 7251
+put 132 4829
+get 63
+put 49 3841
+get 11
+get 77
+get 85
+get 0
+get 21
+get 39
+get 109
+get 51
+get 0
+get 59
+get 96
+get 102
+put 85 6728
+put 81 7590
+put 132 4914
+get 102
+get 94
+put 25 3143
+get 130
+put 112 1161
+get 10
+put 131 7825
+get 42
+put 129 8500
+get 30
+get 90
+get 119
+get 33
+get 6
+get 15
+get 63
+get 88
+put 113 9699
+put 34 9444
+put 26 833
+get 83
+put 63 8755
+get 133
+put 19 8135
+put 113 6465
+get 65
+get 18
+put 5 6626
+put 6 7240
+get 66
+get 111
+get 73
+put 5 6277
+put 86 5249
+get 136
+get 21
+put 4 1535
+put 131 3452
+get 39
+put 63 9090
+get 131
+put 74 1710
+get 3
+get 149
+get 83
+get 69
+put 147 2745
+put 123 1738
+get 117
+get 73
+put 44 4171
+get 143
+put 46 456
+get 70
+get 72
+put 146 6399
+get 126
+put 51 1970
+put 130 7148
+get 86
+put 56 8680
+get 39
+get 143
+put 68 8614
+put 70 382
+get 81
+get 132
+get 24
+get 76
+get 142
+put 86 3622
+put 27 4228
+get 138
+get 94
+put 144 5045
+put 52 1556
+get 39
+get 90
+get 105
+put 110 9431
+get 90
+put 142 6206
+get 0
+put 116 8701
+get 146
+get 101
+put 88 1200
+get 37
+get 41
+put 9 7802
+get 22
+put 128 1092
+get 34
+get 149
+get 136
+put 141 3266
+get 141
+put 106 2957
+get 12
+put 19 9444
+put 130 3302
+get 26
+put 64 8555
+put 99 6257
+put 91 9725
+get 74
+get 21
+put 80 4017
+put 121 4986
+get 11
+get 143
+get 17
+get 136
+get 19
+put 137 228
+put 72 8500
+get 21
+put 75 5200
+get 142
+get 108
+get 117
+put 88 3449
+put 24 2487
+get 8
+get 83
+get 94
+get 133
+put 98 4919
+put 14 328
+get 10
+put 73 6755
+put 135 8025
+put 131 5042
+put 44 7393
+get 67
+get 115
+put 41 9064
+put 115 9978
+get 64
+put 70 4480
+get 135
+put 16 4674
+put 89 1322
+put 55 2079
+get 38
+put 63 1662
+get 98
+get 2
+get 29
+get 106
+get 80
+put 7 7748
+get 93
+put 140 6128
+put 56 8481
+get 44
+put 114 5353
+put 148 2990
+put 125 4563
+put 63 1330
+get 51
+get 108
+get 30
+get 43
+get 74
+put 138 6714
+get 26
+get 48
+put 10 3009
+get 97
+put 37 3280
+get 34
+get 71
+get 53
+get 59
+get 58
+get 44
+get 4
+get 103
+put 26 3268
+get 100
+put 24 1407
+put 80 154
+get 51
+put 8 8300
+put 3 9094
+get 46
+get 34
+put 101 7951
+put 27 7266
+get 11
+put 138 4205
+put 109 2869
+put 26 4052
+put 59 2917
+get 146
+get 119
+put 51 5973
+get 39
+put 73 2719
+get 29
+get 79
+get 123
+get 29
+get 34
+get 47
+get 15
+put 122 9016
+put 61 5029
+get 125
+get 124
+put 30 3038
+put 11 4653
+get 50
+put 146 5044
+get 110
+put 148 647
+get 100
+get 116
+get 74
+get 101
+get 71
+get 16
+put 109 3184
+get 81
+put 75 7709
+put 45 7839
+put 145 9266
+get 88
+get 105
+put 79 8730
+get 146
+get 47
+get 46
+put 129 3550
+get 142
+put 49 8842
+get 8
+get 58
+put 35 9020
+get 136
+put 116 5344
+put 127 9636
+get 91
+get 86
+get 21
+put 84 3862
+put 51 2514
+put 0 4826
+get 108
+get 130
+get 50
+get 29
+get 15
+put 9 6610
+get 99
+put 52 4496
+get 131
+get 95
+get 65
+put 12 2369
+put 101 3845
+get 89
+get 147
+get 11
+get 33
+put 109 8668
+get 126
+put 134 5697
+put 109 9763
+put 38 5178
+get 131
+get 71
+put 54 7500
+get 99
+get 140
+get 17
+put 148 7153
+get 39
+get 100
+get 134
+get 10
+get 65
+put 82 7403
+get 141
+get 148
+get 51
+put 46 4773
+get 30
+get 43
+put 33 6749
+put 127 658
+put 35 1006
+put 37 7943
+put 7 535
+get 104
+put 54 4304
+get 62
+put 148 4723
+get 135
+get 11
+put 20 7902
+put 48 3708
+get 42
+get 124
+put 107 5807
+get 54
+get 126
+put 126 3079
+get 30
+get 3
+get 129
+get 105
+get 76
+put 134 3171
+put 63 4339
+get 40
+put 76 7405
+get 24
+get 56
+put 49 4717
+get 71
+get 91
+get 103
+get 105
+put 38 7630
+get 72
+get 39
+put 89 1442
+put 88 582
+put 15 5261
+put 114 4996
+put 114 3743
+get 84
+put 61 7730
+get 74
+get 75
+put 121 6432
+get 68
+get 30
+get 139
+put 71 8081
+get 91
+get 115
+put 129 8138
+get 100
+get 107
+get 18
+put 59 338
+get 97
+put 140 6818
+put 43 7784
+put 75 6765
+get 91
+get 100
+put 79 2513
+get 99
+put 73 7809
+get 25
+put 141 3505
+get 17
+put 112 6848
+put 107 1988
+get 27
+put 38 277
+get 66
+get 8
+get 89
+get 84
+put 137 3232
+put 77 7635
+get 76
+put 9 7794
+put 40 1816
+put 3 7683
+put 111 9855
+get 38
+get 91
+put 137 5924
+get 42
+get 79
+put 87 8078
+put 135 344
+get 91
+get 125
+get 91
+put 147 4208
+get 66
+put 91 368
+put 34 6553
+get 81
+put 85 7955
+put 72 2127
+get 6
+get 79
+get 46
+get 112
+get 127
+put 54 3216
+put 67 4664
+put 98 7043
+get 102
+get 89
+get 96
+get 14
+get 102
+get 46
+get 99
+put 50 8422
+get 111
+get 138
+get 2
+put 130 1202
+get 78
+put 13 6136
+get 100
+get 77
+get 38
+get 3
+get 92
+put 81 3673
+get 48
+get 134
+get 134
+get 33
+get 73
+get 5
+put 138 6843
+put 138 6009
+get 48
+put 24 1688
+get 102
+put 119 4782
+put 34 2048
+get 116
+get 111
+put 3 7975
+get 41
+put 127 1066
+get 47
+put 21 738
+get 141
+put 60 2430
+get 54
+get 142
+get 135
+put 14 8995
+get 5
+put 18 9894
+put 111 5539
+put 28 7556
+get 2
+put 52 4102
+get 7
+get 28
+put 7 5227
+get 63
+get 101
+put 121 4853
+get 122
+get 101
+get 20
+get 54
+put 69 3874
+put 66 7668
+get 20
+put 31 4750
+put 51 7224
+get 150
+put 12 4826
+get 105
+get 116
+put 5 3116
+get 146
+get 85
+put 105 4407
+get 8
+put 82 4999
+get 58
+put 88 2242
+get 69
+put 31 4125
+get 118
+put 63 1384
+get 74
+get 46
+put 70 6957
+put 111 5294
+get 32
+put 118 5597
+put 29 9717
+put 142 6968
+put 139 3449
+put 124 8618
+put 141 4898
+put 0 8025
+get 146
+put 42 2863
+get 137
+get 52
+get 71
+get 37
+put 68 272
+get 121
+get 30
+put 4 781
+get 118
+put 105 8245
+put 99 5062
+put 32 7465
+get 126
+put 35 9651
+put 9 5210
+get 9
+get 135
+put 108 372
+get 68
+get 18
+get 149
+get 94
+get 68
+get 54
+put 59 2230
+put 127 1729
+put 121 8228
+get 91
+get 110
+put 3 7197
+get 73
+get 48
+get 104
+get 22
+get 74
+put 22 7274
+get 100
+put 112 9851
+put 1 140
+get 44
+get 92
+put 45 4490
+get 2
+put 39 3894
+get 31
+put 10 2370
+get 55
+get 149
+get 78
+put 107 456
+get 75
+get 146
+put 132 5246
+put 111 1094
+put 73 992
+get 56
+get 56
+put 104 1943
+get 26
+put 132 5377
+put 112 751
+put 105 4534
+put 60 9368
+get 58
+get 45
+get 80
+put 43 4081
+put 46 9663
+get 58
+put 28 9130
+put 45 9408
+get 134
+get 121
+get 29
+get 89
+get 9
+get 150
+get 77
+put 88 9955
+get 147
+put 32 184
+get 46
+put 23 5622
+put 127 8736
+get 9
+get 76
+put 42 7673
+get 5
+put 137 4211
+get 139
+get 100
+get 107
+get 84
+get 20
+put 84 9399
+put 11 6408
+get 139
+get 23
+put 13 2263
+get 113
+get 23
+get 34
+get 73
+get 55
+get 77
+get 72
+get 67
+get 49
+get 109
+get 119
+get 99
+get 110
+put 25 8715
+put 55 7534
+get 92
+put 148 5662
+get 141
+put 70 1146
+put 72 3187
+get 21
+get 3
+get 82
+get 2
+get 91
+put 28 7920
+get 87
+put 40 6723
+put 43 1779
+put 46 485
+put 82 8813
+get 69
+get 144
+get 87
+get 145
+put 2 6565
+get 136
+get 17
+get 94
+get 134
+get 106
+put 73 986
+get 146
+put 14 43
+get 44
+get 68
+put 93 8716
+get 88
+get 49
+put 31 180
+put 98 2197
+put 54 9178
+get 140
+put 11 8869
+get 15
+get 139
+get 74
+put 129 3248
+get 66
+get 77
+put 122 2086
+put 6 3504
+put 36 3183
+get 90
+get 13
+put 1 9972
+get 22
+put 144 8892
+get 96
+get 97
+put 53 5752
+get 61
+get 56
+put 19 1081
+put 129 8917
+put 86 453
+put 117 7132
+put 72 7733
+get 17
+get 33
+get 90
+get 126
+put 53 9128
+get 112
+put 87 9482
+put 130 4862
+get 70
+put 111 8211
+put 12 3521
+get 145
+put 108 4122
+put 40 115
+put 63 991
+get 53
+get 129
+get 144
+get 61
+put 136 2838
+get 41
+get 102
+get 97
+get 22
+put 126 2161
+put 106 7518
+put 51 2501
+put 27 3940
+put 20 7024
+put 118 4024
+put 61 314
+put 37 9550
+get 87
+put 130 5040
+get 99
+get 9
+put 72 6236
+get 102
+get 140
+put 150 5692
+put 118 2739
+put 140 3780
+put 63 5506
+get 62
+put 112 6825
+put 149 9873
+get 110
+put 95 8871
+get 103
+get 26
+put 88 3482
+get 91
+get 26
+put 79 9094
+get 70
+get 28
+get 73
+get 150
+get 88
+get 13
+get 103
+get 33
+get 127
+get 27
+get 88
+get 112
+get 28
+put 75 5425
+get 39
+get 116
+put 94 3648
+put 85 4919
+put 134 2547
+get 54
+get 119
+get 95
+get 136
+get 147
+put 3 6552
+get 62
+get 78
+put 47 8714
+put 63 1297
+put 19 1533
+put 59 6986
+get 48
+put 105 9898
+put 125 7917
+put 61 6377
+get 26
+put 38 5727
+put 7 5434
+get 47
+get 64
+get 41
+get 33
+put 46 4208
+get 48
+get 100
+put 135 7784
+get 37
+get 136
+get 21
+put 49 2336
+put 39 605
+get 53
+get 45
+get 59
+get 11
+get 41
+put 33 3015
+get 79
+get 91
+put 37 3862
+get 119
+get 42
+put 16 199
+get 135
+get 20
+get 20
+put 38 7835
+get 110
+put 128 4444
+get 75
+put 99 4226
+get 46
+put 119 5344
+get 137
+get 149
+get 79
+get 21
+get 61
+get 79
+get 100
+get 77
+get 100
+put 125 5773
+get 120
+put 76 9684
+get 139
+get 28
+get 7
+put 50 186
+get 64
+get 122
+get 95
+get 21
+get 61
+get 144
+get 66
+put 66 1206
+put 92 2394
+put 94 3869
+get 23
+put 89 8921
+get 10
+get 44
+put 45 7367
+put 46 1185
+get 56
+put 116 3702
+get 102
+get 48
+put 14 7114
+put 48 2749
+get 81
+get 141
+get 24
+put 91 1110
+put 71 8747
+put 122 5220
+get 30
+put 40 5400
+put 58 5780
+get 23
+get 130
+get 1
+put 136 3511
+get 95
+put 23 5855
+put 135 7121
+put 41 5367
+get 9
+get 35
+get 83
+get 58
+put 57 6280
+put 142 638
+get 88
+get 83
+put 45 9759
+get 98
+get 21
+get 134
+get 2
+get 20
+get 121
+get 112
+get 114
+put 96 807
+get 94
+get 137
+put 70 4620
+put 73 7606
+put 22 7832
+put 48 7125
+get 40
+get 4
+get 118
+get 102
+put 115 3692
+put 35 9194
+get 6
+get 68
+get 77
+get 50
+put 49 3847
+put 64 1334
+get 121
+put 105 5416
+put 118 1716
+get 133
+get 13
+put 144 161
+get 105
+put 93 4920
+get 14
+put 40 6917
+get 91
+get 123
+put 60 2563
+put 51 8143
+put 82 2054
+get 64
+get 58
+put 62 8579
+get 6
+get 73
+get 47
+put 80 8316
+get 51
+get 134
+put 134 5555
+get 88
+get 135
+put 76 3896
+get 10
+put 102 9726
+put 23 2010
+put 92 9909
+get 60
+get 119
+put 72 3437
+put 21 2214
+get 135
+put 99 4290
+get 134
+get 61
+get 103
+get 136
+get 10
+get 103
+get 91
+get 99
+put 24 1356
+get 30
+put 114 4428
+put 86 7956
+get 77
+put 23 9339
+get 25
+get 78
+get 140
+get 82
+get 61
+put 0 9077
+get 59
+put 77 2807
+put 98 4937
+get 116
+get 141
+put 124 1035
+get 80
+get 1
+get 4
+put 31 8259
+get 40
+get 99
+put 76 8973
+get 121
+put 112 2726
+put 100 9294
+get 0
+put 92 2918
+get 34
+get 27
+get 39
+put 86 9581
+put 147 415
+get 12
+get 44
+put 68 7179
+put 82 9839
+get 91
+get 44
+get 51
+put 76 4719
+put 143 9443
+get 62
+put 50 4778
+get 101
+get 120
+get 75
+get 147
+get 59
+get 127
+get 10
+put 117 2190
+get 138
+put 39 508
+put 6 9186
+get 144
+put 22 3057
+put 27 4872
+put 148 4436
+put 85 6070
+get 10
+get 15
+get 57
+put 99 3051
+get 130
+get 17
+put 78 1749
+put 67 9823
+get 88
+put 80 2980
+get 150
+put 65 6156
+get 10
+get 4
+get 74
+get 113
+get 103
+get 82
+put 14 4913
+get 145
+put 140 896
+put 135 8917
+get 7
+put 107 321
+put 26 6074
+get 64
+get 20
+get 145
+get 141
+get 10
+get 104
+put 131 9502
+get 81
+put 21 1989
+get 74
+get 87
+get 124
+get 22
+get 11
+put 114 2136
+get 73
+put 109 7274
+get 149
+put 103 7515
+get 11
+get 136
+put 24 5782
+put 83 5827
+put 65 6142
+get 124
+get 110
+get 74
+put 43 4179
+put 65 823
+get 65
+put 121 5334
+get 134
+get 31
+get 85
+get 141
+get 40
+put 60 7675
+put 138 390
+get 78
+get 80
+put 45 8481
+get 20
+get 80
+put 51 8128
+put 135 5458
+get 135
+get 131
+put 81 8327
+get 63
+get 122
+get 117
+get 35
+put 120 8118
+put 98 5078
+get 7
+put 131 8257
+put 81 7504
+put 20 1273
+put 123 1019
+get 94
+put 67 3559
+get 64
+get 126
+put 32 794
+put 135 8441
+put 114 9313
+get 7
+put 121 2595
+put 84 469
+get 150
+put 134 1910
+put 39 4513
+put 85 2719
+get 125
+get 135
+get 32
+put 99 8155
+get 149
+get 62
+put 147 3468
+put 95 7973
+get 130
+put 73 8829
+put 148 3149
+put 42 3969
+get 141
+get 41
+get 16
+put 147 8672
+put 25 9837
+get 52
+get 94
+put 136 4679
+get 63
+get 70
+get 115
+put 132 1931
+get 6
+put 34 8839
+put 47 9490
+get 133
+put 74 4464
+get 11
+get 71
+put 17 5375
+get 126
+put 53 1478
+put 5 8126
+put 88 6003
+put 120 5345
+get 139
+get 126
+put 138 9229
+get 93
+put 13 7753
+put 94 2963
+get 149
+get 45
+get 70
+put 94 5500
+get 66
+put 38 9153
+get 129
+put 16 7709
+get 94
+get 90
+get 35
+put 72 8211
+get 122
+get 94
+put 23 853
+put 0 8728
+put 105 4789
+get 20
+get 142
+get 96
+get 14
+get 4
+get 148
+get 54
+get 64
+get 85
+put 145 7406
+get 34
+get 38
+put 8 4682
+get 143
+put 127 2205
+put 13 9540
+put 46 8002
+get 36
+get 74
+get 110
+get 65
+put 149 2746
+get 13
+get 84
+get 93
+put 43 2227
+get 3
+get 60
+put 60 798
+get 108
+get 85
+put 28 2464
+put 82 1680
+put 109 9759
+get 38
+get 141
+get 64
+get 60
+get 82
+get 108
+get 67
+put 10 4863
+put 137 1868
+get 30
+put 84 9813
+get 53
+get 124
+put 122 6195
+put 147 4043
+get 149
+put 17 9450
+put 91 6299
+get 51
+put 67 3587
+put 122 8774
+get 3
+put 87 9614
+get 88
+get 76
+put 75 399
+get 149
+get 138
+get 68
+put 74 4780
+put 99 3776
+get 139
+put 25 2437
+get 69
+put 140 6711
+get 53
+get 130
+get 110
+get 7
+put 29 6080
+get 57
+get 5
+get 33
+get 48
+put 127 1573
+put 89 800
+put 114 4894
+put 113 2567
+get 135
+get 120
+get 19
+get 15
+get 25
+get 143
+put 63 7986
+get 45
+put 104 640
+put 18 6881
+put 90 430
+get 79
+get 75
+put 42 2149
+put 74 9088
+put 44 1730
+get 61
+get 115
+put 33 279
+get 47
+get 86
+get 102
+get 52
+put 133 1235
+get 94
+put 6 7134
+put 88 7500
+get 12
+get 50
+get 7
+put 126 7832
+get 120
+get 77
+put 120 3118
+get 71
+put 129 4177
+get 65
+get 81
+get 81
+get 109
+get 98
+get 53
+get 139
+get 125
+put 20 11
+get 128
+get 33
+put 128 5691
+get 56
+put 35 2590
+get 26
+get 78
+put 36 8762
+put 127 6460
+get 36
+put 40 4379
+get 45
+get 116
+get 141
+get 89
+get 89
+put 116 9361
+get 34
+put 79 5179
+get 2
+put 129 5447
+get 41
+put 22 5618
+get 84
+get 128
+get 4
+get 51
+put 78 6240
+get 78
+put 72 4075
+get 20
+get 33
+put 13 9153
+put 73 5346
+put 21 3609
+get 48
+get 93
+get 141
+get 81
+get 139
+get 10
+get 75
+get 28
+put 111 837
+get 121
